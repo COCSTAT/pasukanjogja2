@@ -1,0 +1,44 @@
+{
+    "clan": {
+        "donations": {
+            "received": 20910,
+            "total": 30041,
+            "week": "20260928"
+        },
+        "lastSnapshot": "members_20260928.json",
+        "memberTags": [
+            "#2UU9VRLCG",
+            "#2V29JQYYQ",
+            "#800JJ0L28",
+            "#8VRUGQPC",
+            "#CLPVU2CU",
+            "#GJQ0UV8UC",
+            "#GUVVY9VPQ",
+            "#GVRUYU8G2",
+            "#L0ULV00Y2",
+            "#LLP0P9GV8",
+            "#QRRUPV09Q",
+            "#QVQYG8CPL",
+            "#R08UVU0VJ",
+            "#R0Q8QVUUY",
+            "#R90PUUGV8",
+            "#R9JCU8Q88",
+            "#R9R08L2L8",
+            "#R9UUVY9RR",
+            "#RPYVL9LRJ"
+        ]
+    },
+    "raid": {
+        "20260925T070000.000Z": {
+            "loot": 35358,
+            "state": "ended"
+        }
+    },
+    "war": {
+        "20260927T021029.000Z": {
+            "clanStars": 37,
+            "opponentStars": 43,
+            "state": "warEnded"
+        }
+    }
+}

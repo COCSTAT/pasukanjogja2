@@ -1,0 +1,1653 @@
+{
+    "items": [
+        {
+            "result": "lose",
+            "endTime": "20260928T021029.000Z",
+            "teamSize": 15,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#UGU0C8C",
+                "name": "Pasukan Jogja 2",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/bNqs9QXo_BfJCWbwiavDUupXacx1TmXfC_lGbkDLtoA.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/bNqs9QXo_BfJCWbwiavDUupXacx1TmXfC_lGbkDLtoA.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/bNqs9QXo_BfJCWbwiavDUupXacx1TmXfC_lGbkDLtoA.png"
+                },
+                "clanLevel": 8,
+                "attacks": 19,
+                "stars": 37,
+                "destructionPercentage": 92.4,
+                "expEarned": 156
+            },
+            "opponent": {
+                "tag": "#2CCVCPLQ9",
+                "name": "\u0642\u0628\u06cc\u0644\u0647 \u0637\u0648\u0641\u0627\u0646\u06cc",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/Xl4fMkx5FRWHI5nNHahZxCx_Vfs6uYNgcQ9nTlXDzBM.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/Xl4fMkx5FRWHI5nNHahZxCx_Vfs6uYNgcQ9nTlXDzBM.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/Xl4fMkx5FRWHI5nNHahZxCx_Vfs6uYNgcQ9nTlXDzBM.png"
+                },
+                "clanLevel": 5,
+                "stars": 43,
+                "destructionPercentage": 99.8
+            }
+        },
+        {
+            "result": "win",
+            "endTime": "20260925T125248.000Z",
+            "teamSize": 10,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#UGU0C8C",
+                "name": "Pasukan Jogja 2",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/bNqs9QXo_BfJCWbwiavDUupXacx1TmXfC_lGbkDLtoA.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/bNqs9QXo_BfJCWbwiavDUupXacx1TmXfC_lGbkDLtoA.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/bNqs9QXo_BfJCWbwiavDUupXacx1TmXfC_lGbkDLtoA.png"
+                },
+                "clanLevel": 8,
+                "attacks": 13,
+                "stars": 29,
+                "destructionPercentage": 97.7,
+                "expEarned": 168
+            },
+            "opponent": {
+                "tag": "#22CYY0C",
+                "name": "FAST e FURIOUS",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/PoKKM3FOe7Y-aRdoN583mdJFR22dUMZdO87C8tVcM7s.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/PoKKM3FOe7Y-aRdoN583mdJFR22dUMZdO87C8tVcM7s.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/PoKKM3FOe7Y-aRdoN583mdJFR22dUMZdO87C8tVcM7s.png"
+                },
+                "clanLevel": 12,
+                "stars": 26,
+                "destructionPercentage": 88.4
+            }
+        },
+        {
+            "result": "win",
+            "endTime": "20260923T125901.000Z",
+            "teamSize": 10,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#UGU0C8C",
+                "name": "Pasukan Jogja 2",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/bNqs9QXo_BfJCWbwiavDUupXacx1TmXfC_lGbkDLtoA.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/bNqs9QXo_BfJCWbwiavDUupXacx1TmXfC_lGbkDLtoA.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/bNqs9QXo_BfJCWbwiavDUupXacx1TmXfC_lGbkDLtoA.png"
+                },
+                "clanLevel": 8,
+                "attacks": 17,
+                "stars": 29,
+                "destructionPercentage": 98.9,
+                "expEarned": 163
+            },
+            "opponent": {
+                "tag": "#UJLQV89G",
+                "name": "We are Don",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/qo0kne24Sds2LPSsPc7VXu3jVxRBR0PqOSmYXmYWp8Y.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/qo0kne24Sds2LPSsPc7VXu3jVxRBR0PqOSmYXmYWp8Y.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/qo0kne24Sds2LPSsPc7VXu3jVxRBR0PqOSmYXmYWp8Y.png"
+                },
+                "clanLevel": 17,
+                "stars": 16,
+                "destructionPercentage": 59.0
+            }
+        },
+        {
+            "result": "win",
+            "endTime": "20260921T111916.000Z",
+            "teamSize": 10,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#UGU0C8C",
+                "name": "Pasukan Jogja 2",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/bNqs9QXo_BfJCWbwiavDUupXacx1TmXfC_lGbkDLtoA.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/bNqs9QXo_BfJCWbwiavDUupXacx1TmXfC_lGbkDLtoA.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/bNqs9QXo_BfJCWbwiavDUupXacx1TmXfC_lGbkDLtoA.png"
+                },
+                "clanLevel": 8,
+                "attacks": 14,
+                "stars": 30,
+                "destructionPercentage": 100.0,
+                "expEarned": 160
+            },
+            "opponent": {
+                "tag": "#2LVRJGUGG",
+                "name": "RAIN TOWN CLAN",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/aKKbqRjY10eSI_SM6fBtnHlaKV8ckLTVIpTwvpNXNzc.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/aKKbqRjY10eSI_SM6fBtnHlaKV8ckLTVIpTwvpNXNzc.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/aKKbqRjY10eSI_SM6fBtnHlaKV8ckLTVIpTwvpNXNzc.png"
+                },
+                "clanLevel": 9,
+                "stars": 10,
+                "destructionPercentage": 36.6
+            }
+        },
+        {
+            "result": "lose",
+            "endTime": "20260919T004004.000Z",
+            "teamSize": 10,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#UGU0C8C",
+                "name": "Pasukan Jogja 2",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/bNqs9QXo_BfJCWbwiavDUupXacx1TmXfC_lGbkDLtoA.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/bNqs9QXo_BfJCWbwiavDUupXacx1TmXfC_lGbkDLtoA.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/bNqs9QXo_BfJCWbwiavDUupXacx1TmXfC_lGbkDLtoA.png"
+                },
+                "clanLevel": 8,
+                "attacks": 13,
+                "stars": 27,
+                "destructionPercentage": 93.3,
+                "expEarned": 121
+            },
+            "opponent": {
+                "tag": "#2C82GVQ02",
+                "name": "PAROY.PH",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/ks-Nd02q_KY40G4f_nOrkCAUf6TbMK3O440Ugq8ttAA.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/ks-Nd02q_KY40G4f_nOrkCAUf6TbMK3O440Ugq8ttAA.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/ks-Nd02q_KY40G4f_nOrkCAUf6TbMK3O440Ugq8ttAA.png"
+                },
+                "clanLevel": 5,
+                "stars": 28,
+                "destructionPercentage": 99.6
+            }
+        },
+        {
+            "result": "lose",
+            "endTime": "20260916T014214.000Z",
+            "teamSize": 15,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#UGU0C8C",
+                "name": "Pasukan Jogja 2",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/bNqs9QXo_BfJCWbwiavDUupXacx1TmXfC_lGbkDLtoA.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/bNqs9QXo_BfJCWbwiavDUupXacx1TmXfC_lGbkDLtoA.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/bNqs9QXo_BfJCWbwiavDUupXacx1TmXfC_lGbkDLtoA.png"
+                },
+                "clanLevel": 8,
+                "attacks": 16,
+                "stars": 34,
+                "destructionPercentage": 82.933334,
+                "expEarned": 120
+            },
+            "opponent": {
+                "tag": "#202RUL2PR",
+                "name": "JaGoWaLiA gRoUp",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/Gd32HORi6b5EOPSVFqtbw5xbs-v-YkDr0ogtaXlykCE.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/Gd32HORi6b5EOPSVFqtbw5xbs-v-YkDr0ogtaXlykCE.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/Gd32HORi6b5EOPSVFqtbw5xbs-v-YkDr0ogtaXlykCE.png"
+                },
+                "clanLevel": 14,
+                "stars": 45,
+                "destructionPercentage": 100.0
+            }
+        },
+        {
+            "result": "win",
+            "endTime": "20260913T142020.000Z",
+            "teamSize": 10,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#UGU0C8C",
+                "name": "Pasukan Jogja 2",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/bNqs9QXo_BfJCWbwiavDUupXacx1TmXfC_lGbkDLtoA.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/bNqs9QXo_BfJCWbwiavDUupXacx1TmXfC_lGbkDLtoA.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/bNqs9QXo_BfJCWbwiavDUupXacx1TmXfC_lGbkDLtoA.png"
+                },
+                "clanLevel": 8,
+                "attacks": 16,
+                "stars": 30,
+                "destructionPercentage": 100.0,
+                "expEarned": 168
+            },
+            "opponent": {
+                "tag": "#2JRU2UJ80",
+                "name": "Dark System",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/gijPELgXtYr5nqRka22GFafH9bCeLpca7PCKavyZKvw.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/gijPELgXtYr5nqRka22GFafH9bCeLpca7PCKavyZKvw.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/gijPELgXtYr5nqRka22GFafH9bCeLpca7PCKavyZKvw.png"
+                },
+                "clanLevel": 4,
+                "stars": 4,
+                "destructionPercentage": 15.9
+            }
+        },
+        {
+            "result": null,
+            "endTime": "20260911T063037.000Z",
+            "teamSize": 15,
+            "attacksPerMember": 1,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#UGU0C8C",
+                "name": "Pasukan Jogja 2",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/bNqs9QXo_BfJCWbwiavDUupXacx1TmXfC_lGbkDLtoA.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/bNqs9QXo_BfJCWbwiavDUupXacx1TmXfC_lGbkDLtoA.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/bNqs9QXo_BfJCWbwiavDUupXacx1TmXfC_lGbkDLtoA.png"
+                },
+                "clanLevel": 8,
+                "attacks": 71,
+                "stars": 169,
+                "destructionPercentage": 349.33334,
+                "expEarned": 0
+            },
+            "opponent": {
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+                },
+                "clanLevel": 0,
+                "stars": 137,
+                "destructionPercentage": 0.0
+            }
+        },
+        {
+            "result": "win",
+            "endTime": "20260901T182559.000Z",
+            "teamSize": 15,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#UGU0C8C",
+                "name": "Pasukan Jogja 2",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/bNqs9QXo_BfJCWbwiavDUupXacx1TmXfC_lGbkDLtoA.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/bNqs9QXo_BfJCWbwiavDUupXacx1TmXfC_lGbkDLtoA.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/bNqs9QXo_BfJCWbwiavDUupXacx1TmXfC_lGbkDLtoA.png"
+                },
+                "clanLevel": 8,
+                "attacks": 24,
+                "stars": 44,
+                "destructionPercentage": 99.8,
+                "expEarned": 199
+            },
+            "opponent": {
+                "tag": "#2JV8RYLL0",
+                "name": "Welcome friends",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/V2JKxsBWdUA71gs-4-xI_9DfqS0y3ju0EdfkBuNjbiw.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/V2JKxsBWdUA71gs-4-xI_9DfqS0y3ju0EdfkBuNjbiw.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/V2JKxsBWdUA71gs-4-xI_9DfqS0y3ju0EdfkBuNjbiw.png"
+                },
+                "clanLevel": 7,
+                "stars": 24,
+                "destructionPercentage": 63.4
+            }
+        },
+        {
+            "result": "lose",
+            "endTime": "20260813T130504.000Z",
+            "teamSize": 20,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#UGU0C8C",
+                "name": "Pasukan Jogja 2",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/bNqs9QXo_BfJCWbwiavDUupXacx1TmXfC_lGbkDLtoA.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/bNqs9QXo_BfJCWbwiavDUupXacx1TmXfC_lGbkDLtoA.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/bNqs9QXo_BfJCWbwiavDUupXacx1TmXfC_lGbkDLtoA.png"
+                },
+                "clanLevel": 8,
+                "attacks": 21,
+                "stars": 53,
+                "destructionPercentage": 92.85,
+                "expEarned": 150
+            },
+            "opponent": {
+                "tag": "#2CYLPCLG0",
+                "name": "MYANMAR",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/jqabKPbWd6n4m2YWixgbHtNXRiwK3CrIagCzloAo_Z4.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/jqabKPbWd6n4m2YWixgbHtNXRiwK3CrIagCzloAo_Z4.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/jqabKPbWd6n4m2YWixgbHtNXRiwK3CrIagCzloAo_Z4.png"
+                },
+                "clanLevel": 5,
+                "stars": 56,
+                "destructionPercentage": 93.95
+            }
+        },
+        {
+            "result": "win",
+            "endTime": "20260809T212417.000Z",
+            "teamSize": 15,
+            "attacksPerMember": 1,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#UGU0C8C",
+                "name": "Pasukan Jogja 2",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/bNqs9QXo_BfJCWbwiavDUupXacx1TmXfC_lGbkDLtoA.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/bNqs9QXo_BfJCWbwiavDUupXacx1TmXfC_lGbkDLtoA.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/bNqs9QXo_BfJCWbwiavDUupXacx1TmXfC_lGbkDLtoA.png"
+                },
+                "clanLevel": 8,
+                "attacks": 95,
+                "stars": 269,
+                "destructionPercentage": 509.8,
+                "expEarned": 0
+            },
+            "opponent": {
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+                },
+                "clanLevel": 0,
+                "stars": 137,
+                "destructionPercentage": 0.0
+            }
+        },
+        {
+            "result": "lose",
+            "endTime": "20260731T021507.000Z",
+            "teamSize": 15,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#UGU0C8C",
+                "name": "Pasukan Jogja 2",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/ea2d-ODUIp3HNSFAEqt4Mk5KlCl07PvvPLa_lsVMXow.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/ea2d-ODUIp3HNSFAEqt4Mk5KlCl07PvvPLa_lsVMXow.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/ea2d-ODUIp3HNSFAEqt4Mk5KlCl07PvvPLa_lsVMXow.png"
+                },
+                "clanLevel": 7,
+                "attacks": 22,
+                "stars": 42,
+                "destructionPercentage": 95.86667,
+                "expEarned": 131
+            },
+            "opponent": {
+                "tag": "#2CQ8J0C8R",
+                "name": "Los KFC",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/xofVjeqosge12_F5WhuEaBfmuwiG2rmrpu-vWA9bzXA.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/xofVjeqosge12_F5WhuEaBfmuwiG2rmrpu-vWA9bzXA.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/xofVjeqosge12_F5WhuEaBfmuwiG2rmrpu-vWA9bzXA.png"
+                },
+                "clanLevel": 3,
+                "stars": 42,
+                "destructionPercentage": 96.73333
+            }
+        },
+        {
+            "result": "lose",
+            "endTime": "20260727T082859.000Z",
+            "teamSize": 15,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#UGU0C8C",
+                "name": "Pasukan Jogja 2",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/ea2d-ODUIp3HNSFAEqt4Mk5KlCl07PvvPLa_lsVMXow.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/ea2d-ODUIp3HNSFAEqt4Mk5KlCl07PvvPLa_lsVMXow.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/ea2d-ODUIp3HNSFAEqt4Mk5KlCl07PvvPLa_lsVMXow.png"
+                },
+                "clanLevel": 7,
+                "attacks": 24,
+                "stars": 42,
+                "destructionPercentage": 95.4,
+                "expEarned": 124
+            },
+            "opponent": {
+                "tag": "#2CLC820J8",
+                "name": "01",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/ZR2qF-OuWEVK5HsVAo8cl9ZUfjB6ePlt8oPypWrWrRw.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/ZR2qF-OuWEVK5HsVAo8cl9ZUfjB6ePlt8oPypWrWrRw.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/ZR2qF-OuWEVK5HsVAo8cl9ZUfjB6ePlt8oPypWrWrRw.png"
+                },
+                "clanLevel": 4,
+                "stars": 45,
+                "destructionPercentage": 100.0
+            }
+        },
+        {
+            "result": "win",
+            "endTime": "20260725T001655.000Z",
+            "teamSize": 15,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#UGU0C8C",
+                "name": "Pasukan Jogja 2",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/ea2d-ODUIp3HNSFAEqt4Mk5KlCl07PvvPLa_lsVMXow.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/ea2d-ODUIp3HNSFAEqt4Mk5KlCl07PvvPLa_lsVMXow.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/ea2d-ODUIp3HNSFAEqt4Mk5KlCl07PvvPLa_lsVMXow.png"
+                },
+                "clanLevel": 7,
+                "attacks": 23,
+                "stars": 39,
+                "destructionPercentage": 95.53333,
+                "expEarned": 176
+            },
+            "opponent": {
+                "tag": "#JGQCQ0G",
+                "name": "20131415",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/8E7rPqLWmDx-dHapxWgAm9yoCegZm-HH31shQjmXdfA.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/8E7rPqLWmDx-dHapxWgAm9yoCegZm-HH31shQjmXdfA.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/8E7rPqLWmDx-dHapxWgAm9yoCegZm-HH31shQjmXdfA.png"
+                },
+                "clanLevel": 8,
+                "stars": 21,
+                "destructionPercentage": 46.666668
+            }
+        },
+        {
+            "result": "win",
+            "endTime": "20260722T144135.000Z",
+            "teamSize": 10,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#UGU0C8C",
+                "name": "Pasukan Jogja 2",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/ea2d-ODUIp3HNSFAEqt4Mk5KlCl07PvvPLa_lsVMXow.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/ea2d-ODUIp3HNSFAEqt4Mk5KlCl07PvvPLa_lsVMXow.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/ea2d-ODUIp3HNSFAEqt4Mk5KlCl07PvvPLa_lsVMXow.png"
+                },
+                "clanLevel": 7,
+                "attacks": 17,
+                "stars": 30,
+                "destructionPercentage": 100.0,
+                "expEarned": 148
+            },
+            "opponent": {
+                "tag": "#2C9QP8Y9L",
+                "name": "VILAINS_PRIDE",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/htfA3prSDi-kOu7Fsca4I5bxUwGb8xMFhyneZouYd0Y.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/htfA3prSDi-kOu7Fsca4I5bxUwGb8xMFhyneZouYd0Y.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/htfA3prSDi-kOu7Fsca4I5bxUwGb8xMFhyneZouYd0Y.png"
+                },
+                "clanLevel": 2,
+                "stars": 26,
+                "destructionPercentage": 95.4
+            }
+        },
+        {
+            "result": "win",
+            "endTime": "20260720T021007.000Z",
+            "teamSize": 10,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#UGU0C8C",
+                "name": "Pasukan Jogja 2",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/ea2d-ODUIp3HNSFAEqt4Mk5KlCl07PvvPLa_lsVMXow.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/ea2d-ODUIp3HNSFAEqt4Mk5KlCl07PvvPLa_lsVMXow.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/ea2d-ODUIp3HNSFAEqt4Mk5KlCl07PvvPLa_lsVMXow.png"
+                },
+                "clanLevel": 7,
+                "attacks": 14,
+                "stars": 27,
+                "destructionPercentage": 96.3,
+                "expEarned": 152
+            },
+            "opponent": {
+                "tag": "#2C88R29VJ",
+                "name": "\u0648\u0644\u062f \u062e\u0627\u0644\u0647",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/R1X42Eu7-6DY80p4FAxDAorcDk9xrYRpq-qNGhalPeU.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/R1X42Eu7-6DY80p4FAxDAorcDk9xrYRpq-qNGhalPeU.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/R1X42Eu7-6DY80p4FAxDAorcDk9xrYRpq-qNGhalPeU.png"
+                },
+                "clanLevel": 2,
+                "stars": 25,
+                "destructionPercentage": 87.9
+            }
+        },
+        {
+            "result": "win",
+            "endTime": "20260717T154351.000Z",
+            "teamSize": 10,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#UGU0C8C",
+                "name": "Pasukan Jogja 2",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/ea2d-ODUIp3HNSFAEqt4Mk5KlCl07PvvPLa_lsVMXow.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/ea2d-ODUIp3HNSFAEqt4Mk5KlCl07PvvPLa_lsVMXow.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/ea2d-ODUIp3HNSFAEqt4Mk5KlCl07PvvPLa_lsVMXow.png"
+                },
+                "clanLevel": 7,
+                "attacks": 14,
+                "stars": 29,
+                "destructionPercentage": 97.5,
+                "expEarned": 141
+            },
+            "opponent": {
+                "tag": "#2JUJCGQUU",
+                "name": "Fantards MIA",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/g80nhuEmAHxlkE02ISSdwRh4oencrg9D_-xBv7_P7s0.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/g80nhuEmAHxlkE02ISSdwRh4oencrg9D_-xBv7_P7s0.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/g80nhuEmAHxlkE02ISSdwRh4oencrg9D_-xBv7_P7s0.png"
+                },
+                "clanLevel": 4,
+                "stars": 24,
+                "destructionPercentage": 80.0
+            }
+        },
+        {
+            "result": "lose",
+            "endTime": "20260712T101309.000Z",
+            "teamSize": 10,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#UGU0C8C",
+                "name": "Pasukan Jogja 2",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/ea2d-ODUIp3HNSFAEqt4Mk5KlCl07PvvPLa_lsVMXow.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/ea2d-ODUIp3HNSFAEqt4Mk5KlCl07PvvPLa_lsVMXow.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/ea2d-ODUIp3HNSFAEqt4Mk5KlCl07PvvPLa_lsVMXow.png"
+                },
+                "clanLevel": 7,
+                "attacks": 10,
+                "stars": 21,
+                "destructionPercentage": 80.6,
+                "expEarned": 86
+            },
+            "opponent": {
+                "tag": "#2CUJ9UQVC",
+                "name": "SOUL SOCIETY",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/nLTnLYAO5t-TCyd71AlvQG8C7PG_zzwX8pEC9--p11w.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/nLTnLYAO5t-TCyd71AlvQG8C7PG_zzwX8pEC9--p11w.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/nLTnLYAO5t-TCyd71AlvQG8C7PG_zzwX8pEC9--p11w.png"
+                },
+                "clanLevel": 1,
+                "stars": 30,
+                "destructionPercentage": 100.0
+            }
+        },
+        {
+            "result": "lose",
+            "endTime": "20260710T100054.000Z",
+            "teamSize": 15,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#UGU0C8C",
+                "name": "Pasukan Jogja 2",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/ea2d-ODUIp3HNSFAEqt4Mk5KlCl07PvvPLa_lsVMXow.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/ea2d-ODUIp3HNSFAEqt4Mk5KlCl07PvvPLa_lsVMXow.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/ea2d-ODUIp3HNSFAEqt4Mk5KlCl07PvvPLa_lsVMXow.png"
+                },
+                "clanLevel": 7,
+                "attacks": 20,
+                "stars": 40,
+                "destructionPercentage": 89.333336,
+                "expEarned": 122
+            },
+            "opponent": {
+                "tag": "#2CUQRG09V",
+                "name": "Blood Oath Clan",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/ojsTjox3p-mHfbg9FIIFlUwN834S-LryESbOp_o_YwM.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/ojsTjox3p-mHfbg9FIIFlUwN834S-LryESbOp_o_YwM.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/ojsTjox3p-mHfbg9FIIFlUwN834S-LryESbOp_o_YwM.png"
+                },
+                "clanLevel": 4,
+                "stars": 40,
+                "destructionPercentage": 90.6
+            }
+        },
+        {
+            "result": "win",
+            "endTime": "20260708T002739.000Z",
+            "teamSize": 10,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#UGU0C8C",
+                "name": "Pasukan Jogja 2",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/ea2d-ODUIp3HNSFAEqt4Mk5KlCl07PvvPLa_lsVMXow.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/ea2d-ODUIp3HNSFAEqt4Mk5KlCl07PvvPLa_lsVMXow.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/ea2d-ODUIp3HNSFAEqt4Mk5KlCl07PvvPLa_lsVMXow.png"
+                },
+                "clanLevel": 7,
+                "attacks": 18,
+                "stars": 29,
+                "destructionPercentage": 98.7,
+                "expEarned": 138
+            },
+            "opponent": {
+                "tag": "#2RU28J9LP",
+                "name": "AMDK CLANN",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/ixGRR4GISHAMen5-l_FWjYbEAeoKwk9FJ77AP4lT4-4.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/ixGRR4GISHAMen5-l_FWjYbEAeoKwk9FJ77AP4lT4-4.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/ixGRR4GISHAMen5-l_FWjYbEAeoKwk9FJ77AP4lT4-4.png"
+                },
+                "clanLevel": 2,
+                "stars": 27,
+                "destructionPercentage": 97.5
+            }
+        },
+        {
+            "result": "lose",
+            "endTime": "20260706T005347.000Z",
+            "teamSize": 15,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#UGU0C8C",
+                "name": "Pasukan Jogja 2",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/ea2d-ODUIp3HNSFAEqt4Mk5KlCl07PvvPLa_lsVMXow.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/ea2d-ODUIp3HNSFAEqt4Mk5KlCl07PvvPLa_lsVMXow.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/ea2d-ODUIp3HNSFAEqt4Mk5KlCl07PvvPLa_lsVMXow.png"
+                },
+                "clanLevel": 7,
+                "attacks": 18,
+                "stars": 37,
+                "destructionPercentage": 86.26667,
+                "expEarned": 116
+            },
+            "opponent": {
+                "tag": "#2CVJGYVGU",
+                "name": "LOS PEGASUS",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/-GyABuqkOndU1yuZ_aqEl2ghtmVPlsPmrQCDH9W2jfA.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/-GyABuqkOndU1yuZ_aqEl2ghtmVPlsPmrQCDH9W2jfA.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/-GyABuqkOndU1yuZ_aqEl2ghtmVPlsPmrQCDH9W2jfA.png"
+                },
+                "clanLevel": 3,
+                "stars": 41,
+                "destructionPercentage": 97.73333
+            }
+        },
+        {
+            "result": "win",
+            "endTime": "20260702T041249.000Z",
+            "teamSize": 15,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#UGU0C8C",
+                "name": "Pasukan Jogja 2",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/ea2d-ODUIp3HNSFAEqt4Mk5KlCl07PvvPLa_lsVMXow.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/ea2d-ODUIp3HNSFAEqt4Mk5KlCl07PvvPLa_lsVMXow.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/ea2d-ODUIp3HNSFAEqt4Mk5KlCl07PvvPLa_lsVMXow.png"
+                },
+                "clanLevel": 7,
+                "attacks": 22,
+                "stars": 43,
+                "destructionPercentage": 96.333336,
+                "expEarned": 165
+            },
+            "opponent": {
+                "tag": "#2GYJVGC8P",
+                "name": "Hayahay",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/jqabKPbWd6n4m2YWixgbHtNXRiwK3CrIagCzloAo_Z4.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/jqabKPbWd6n4m2YWixgbHtNXRiwK3CrIagCzloAo_Z4.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/jqabKPbWd6n4m2YWixgbHtNXRiwK3CrIagCzloAo_Z4.png"
+                },
+                "clanLevel": 5,
+                "stars": 26,
+                "destructionPercentage": 62.733334
+            }
+        },
+        {
+            "result": "lose",
+            "endTime": "20260627T080047.000Z",
+            "teamSize": 15,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#UGU0C8C",
+                "name": "Pasukan Jogja 2",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/ea2d-ODUIp3HNSFAEqt4Mk5KlCl07PvvPLa_lsVMXow.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/ea2d-ODUIp3HNSFAEqt4Mk5KlCl07PvvPLa_lsVMXow.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/ea2d-ODUIp3HNSFAEqt4Mk5KlCl07PvvPLa_lsVMXow.png"
+                },
+                "clanLevel": 7,
+                "attacks": 18,
+                "stars": 32,
+                "destructionPercentage": 77.73333,
+                "expEarned": 109
+            },
+            "opponent": {
+                "tag": "#2CUQV00V8",
+                "name": "\ua9c1NEBULA GALAXY\ua9c2",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/DKFuMeQ3izMbRoFn23U5DJg-EHDJZ8b5We6nasMDBSE.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/DKFuMeQ3izMbRoFn23U5DJg-EHDJZ8b5We6nasMDBSE.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/DKFuMeQ3izMbRoFn23U5DJg-EHDJZ8b5We6nasMDBSE.png"
+                },
+                "clanLevel": 4,
+                "stars": 41,
+                "destructionPercentage": 97.6
+            }
+        },
+        {
+            "result": null,
+            "endTime": "20260625T042418.000Z",
+            "teamSize": 11,
+            "attacksPerMember": 1,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#UGU0C8C",
+                "name": "Pasukan Jogja 2",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/ea2d-ODUIp3HNSFAEqt4Mk5KlCl07PvvPLa_lsVMXow.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/ea2d-ODUIp3HNSFAEqt4Mk5KlCl07PvvPLa_lsVMXow.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/ea2d-ODUIp3HNSFAEqt4Mk5KlCl07PvvPLa_lsVMXow.png"
+                },
+                "clanLevel": 7,
+                "attacks": 59,
+                "stars": 141,
+                "destructionPercentage": 369.36365,
+                "expEarned": 0
+            },
+            "opponent": {
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+                },
+                "clanLevel": 0,
+                "stars": 117,
+                "destructionPercentage": 0.0
+            }
+        },
+        {
+            "result": "lose",
+            "endTime": "20260616T165357.000Z",
+            "teamSize": 15,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#UGU0C8C",
+                "name": "Pasukan Jogja 2",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/ea2d-ODUIp3HNSFAEqt4Mk5KlCl07PvvPLa_lsVMXow.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/ea2d-ODUIp3HNSFAEqt4Mk5KlCl07PvvPLa_lsVMXow.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/ea2d-ODUIp3HNSFAEqt4Mk5KlCl07PvvPLa_lsVMXow.png"
+                },
+                "clanLevel": 7,
+                "attacks": 19,
+                "stars": 37,
+                "destructionPercentage": 85.53333,
+                "expEarned": 120
+            },
+            "opponent": {
+                "tag": "#2CP982YY0",
+                "name": "Land of Ashura",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/xofVjeqosge12_F5WhuEaBfmuwiG2rmrpu-vWA9bzXA.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/xofVjeqosge12_F5WhuEaBfmuwiG2rmrpu-vWA9bzXA.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/xofVjeqosge12_F5WhuEaBfmuwiG2rmrpu-vWA9bzXA.png"
+                },
+                "clanLevel": 3,
+                "stars": 38,
+                "destructionPercentage": 84.933334
+            }
+        },
+        {
+            "result": "win",
+            "endTime": "20260610T184500.000Z",
+            "teamSize": 15,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#UGU0C8C",
+                "name": "Pasukan Jogja 2",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/ea2d-ODUIp3HNSFAEqt4Mk5KlCl07PvvPLa_lsVMXow.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/ea2d-ODUIp3HNSFAEqt4Mk5KlCl07PvvPLa_lsVMXow.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/ea2d-ODUIp3HNSFAEqt4Mk5KlCl07PvvPLa_lsVMXow.png"
+                },
+                "clanLevel": 7,
+                "attacks": 10,
+                "stars": 26,
+                "destructionPercentage": 61.533333,
+                "expEarned": 118
+            },
+            "opponent": {
+                "tag": "#2RC0L89CV",
+                "name": "B2K\u26a1\ufe0f \u0e1b\u0e35\u0e28\u0e32\u0e08\u26a1\ufe0f",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/ZgoMARxbYMbed9HWSAlqeCF59nu00qbUIXefY8RpgW0.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/ZgoMARxbYMbed9HWSAlqeCF59nu00qbUIXefY8RpgW0.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/ZgoMARxbYMbed9HWSAlqeCF59nu00qbUIXefY8RpgW0.png"
+                },
+                "clanLevel": 5,
+                "stars": 23,
+                "destructionPercentage": 52.0
+            }
+        },
+        {
+            "result": "lose",
+            "endTime": "20260608T145221.000Z",
+            "teamSize": 15,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#UGU0C8C",
+                "name": "Pasukan Jogja 2",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/ea2d-ODUIp3HNSFAEqt4Mk5KlCl07PvvPLa_lsVMXow.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/ea2d-ODUIp3HNSFAEqt4Mk5KlCl07PvvPLa_lsVMXow.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/ea2d-ODUIp3HNSFAEqt4Mk5KlCl07PvvPLa_lsVMXow.png"
+                },
+                "clanLevel": 7,
+                "attacks": 11,
+                "stars": 24,
+                "destructionPercentage": 55.0,
+                "expEarned": 69
+            },
+            "opponent": {
+                "tag": "#2GYVVCCJ9",
+                "name": "BANGLADESH",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/e6IZf5qb4eI6By-iwRcEkN_oDBooVdfHRQzOo08IVdg.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/e6IZf5qb4eI6By-iwRcEkN_oDBooVdfHRQzOo08IVdg.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/e6IZf5qb4eI6By-iwRcEkN_oDBooVdfHRQzOo08IVdg.png"
+                },
+                "clanLevel": 10,
+                "stars": 25,
+                "destructionPercentage": 62.333332
+            }
+        },
+        {
+            "result": "lose",
+            "endTime": "20260605T231632.000Z",
+            "teamSize": 15,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#UGU0C8C",
+                "name": "Pasukan Jogja 2",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/ea2d-ODUIp3HNSFAEqt4Mk5KlCl07PvvPLa_lsVMXow.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/ea2d-ODUIp3HNSFAEqt4Mk5KlCl07PvvPLa_lsVMXow.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/ea2d-ODUIp3HNSFAEqt4Mk5KlCl07PvvPLa_lsVMXow.png"
+                },
+                "clanLevel": 7,
+                "attacks": 13,
+                "stars": 25,
+                "destructionPercentage": 67.333336,
+                "expEarned": 77
+            },
+            "opponent": {
+                "tag": "#2JU99YLPV",
+                "name": "Dominators",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/qSKNpYBxc6bIsAETpUY3VZtd_-QkR9-HA7pMX8qYqsE.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/qSKNpYBxc6bIsAETpUY3VZtd_-QkR9-HA7pMX8qYqsE.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/qSKNpYBxc6bIsAETpUY3VZtd_-QkR9-HA7pMX8qYqsE.png"
+                },
+                "clanLevel": 3,
+                "stars": 29,
+                "destructionPercentage": 71.46667
+            }
+        },
+        {
+            "result": "win",
+            "endTime": "20260529T164746.000Z",
+            "teamSize": 15,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#UGU0C8C",
+                "name": "Pasukan Jogja 2",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/ea2d-ODUIp3HNSFAEqt4Mk5KlCl07PvvPLa_lsVMXow.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/ea2d-ODUIp3HNSFAEqt4Mk5KlCl07PvvPLa_lsVMXow.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/ea2d-ODUIp3HNSFAEqt4Mk5KlCl07PvvPLa_lsVMXow.png"
+                },
+                "clanLevel": 7,
+                "attacks": 16,
+                "stars": 35,
+                "destructionPercentage": 83.86667,
+                "expEarned": 192
+            },
+            "opponent": {
+                "tag": "#2C2GVJ998",
+                "name": "TURKMEN\u0130STAN",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/JKXbirbH2sXdlXMzy6vJ2mgthS3FcXDW1QL0FIJPqr8.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/JKXbirbH2sXdlXMzy6vJ2mgthS3FcXDW1QL0FIJPqr8.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/JKXbirbH2sXdlXMzy6vJ2mgthS3FcXDW1QL0FIJPqr8.png"
+                },
+                "clanLevel": 5,
+                "stars": 23,
+                "destructionPercentage": 52.266666
+            }
+        },
+        {
+            "result": "lose",
+            "endTime": "20260527T081903.000Z",
+            "teamSize": 15,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#UGU0C8C",
+                "name": "Pasukan Jogja 2",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/ea2d-ODUIp3HNSFAEqt4Mk5KlCl07PvvPLa_lsVMXow.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/ea2d-ODUIp3HNSFAEqt4Mk5KlCl07PvvPLa_lsVMXow.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/ea2d-ODUIp3HNSFAEqt4Mk5KlCl07PvvPLa_lsVMXow.png"
+                },
+                "clanLevel": 7,
+                "attacks": 9,
+                "stars": 17,
+                "destructionPercentage": 37.866665,
+                "expEarned": 60
+            },
+            "opponent": {
+                "tag": "#2JJ0QPGY0",
+                "name": "V\u039eNOM X",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/FFqlRezRaFWxOo3cTCCMSOkbeVHyDiBmWNkEnDofsUU.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/FFqlRezRaFWxOo3cTCCMSOkbeVHyDiBmWNkEnDofsUU.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/FFqlRezRaFWxOo3cTCCMSOkbeVHyDiBmWNkEnDofsUU.png"
+                },
+                "clanLevel": 6,
+                "stars": 35,
+                "destructionPercentage": 78.4
+            }
+        },
+        {
+            "result": "lose",
+            "endTime": "20260525T053114.000Z",
+            "teamSize": 15,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#UGU0C8C",
+                "name": "Pasukan Jogja 2",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/ea2d-ODUIp3HNSFAEqt4Mk5KlCl07PvvPLa_lsVMXow.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/ea2d-ODUIp3HNSFAEqt4Mk5KlCl07PvvPLa_lsVMXow.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/ea2d-ODUIp3HNSFAEqt4Mk5KlCl07PvvPLa_lsVMXow.png"
+                },
+                "clanLevel": 7,
+                "attacks": 16,
+                "stars": 25,
+                "destructionPercentage": 72.933334,
+                "expEarned": 113
+            },
+            "opponent": {
+                "tag": "#2RCPVJ9YR",
+                "name": "MEGALODON",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/jin90OsoVtKxirkfbly0kiFg17kVbpAsJ1VfbkJyktM.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/jin90OsoVtKxirkfbly0kiFg17kVbpAsJ1VfbkJyktM.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/jin90OsoVtKxirkfbly0kiFg17kVbpAsJ1VfbkJyktM.png"
+                },
+                "clanLevel": 4,
+                "stars": 38,
+                "destructionPercentage": 90.26667
+            }
+        },
+        {
+            "result": "lose",
+            "endTime": "20260511T141353.000Z",
+            "teamSize": 10,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#UGU0C8C",
+                "name": "Pasukan Jogja 2",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/ea2d-ODUIp3HNSFAEqt4Mk5KlCl07PvvPLa_lsVMXow.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/ea2d-ODUIp3HNSFAEqt4Mk5KlCl07PvvPLa_lsVMXow.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/ea2d-ODUIp3HNSFAEqt4Mk5KlCl07PvvPLa_lsVMXow.png"
+                },
+                "clanLevel": 7,
+                "attacks": 9,
+                "stars": 13,
+                "destructionPercentage": 51.9,
+                "expEarned": 57
+            },
+            "opponent": {
+                "tag": "#2JJ8U2VRR",
+                "name": "\u65e0\u540d\uff08\u94e7\u5b50\u5c71\u5206\u90e8\uff09",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/80rBA5mHEzOFxAis3Fv6rp8828Fv18uw6GR0nzmEgI4.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/80rBA5mHEzOFxAis3Fv6rp8828Fv18uw6GR0nzmEgI4.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/80rBA5mHEzOFxAis3Fv6rp8828Fv18uw6GR0nzmEgI4.png"
+                },
+                "clanLevel": 7,
+                "stars": 28,
+                "destructionPercentage": 95.1
+            }
+        },
+        {
+            "result": "lose",
+            "endTime": "20260505T144737.000Z",
+            "teamSize": 10,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#UGU0C8C",
+                "name": "Pasukan Jogja 2",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/ea2d-ODUIp3HNSFAEqt4Mk5KlCl07PvvPLa_lsVMXow.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/ea2d-ODUIp3HNSFAEqt4Mk5KlCl07PvvPLa_lsVMXow.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/ea2d-ODUIp3HNSFAEqt4Mk5KlCl07PvvPLa_lsVMXow.png"
+                },
+                "clanLevel": 7,
+                "attacks": 12,
+                "stars": 18,
+                "destructionPercentage": 74.8,
+                "expEarned": 85
+            },
+            "opponent": {
+                "tag": "#2JVLLQ2LV",
+                "name": "MDY.GZ",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/FA5y9e0IcDsFU2Gpf6hJLP2186O8QT3Ce4_YtkB8VeE.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/FA5y9e0IcDsFU2Gpf6hJLP2186O8QT3Ce4_YtkB8VeE.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/FA5y9e0IcDsFU2Gpf6hJLP2186O8QT3Ce4_YtkB8VeE.png"
+                },
+                "clanLevel": 5,
+                "stars": 27,
+                "destructionPercentage": 94.9
+            }
+        },
+        {
+            "result": "lose",
+            "endTime": "20171113T140222.000Z",
+            "teamSize": 10,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#UGU0C8C",
+                "name": "Pasukan Jogja 2",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/_IeBB4BPWTsO_6BE_M_uzmAnDee65_bgO1sBtN5htgE.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/_IeBB4BPWTsO_6BE_M_uzmAnDee65_bgO1sBtN5htgE.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/_IeBB4BPWTsO_6BE_M_uzmAnDee65_bgO1sBtN5htgE.png"
+                },
+                "clanLevel": 6,
+                "attacks": 14,
+                "stars": 27,
+                "destructionPercentage": 93.6,
+                "expEarned": 54
+            },
+            "opponent": {
+                "tag": "#JPUG8202",
+                "name": "\u0628\u0686\u0647 \u0647\u0627\u06cc \u0628\u0627\u0645\u0631\u0627\u0645",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/0w6fMYqqsc-zyHnY0FUzpK-aI-e_73838HydHYLNkME.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/0w6fMYqqsc-zyHnY0FUzpK-aI-e_73838HydHYLNkME.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/0w6fMYqqsc-zyHnY0FUzpK-aI-e_73838HydHYLNkME.png"
+                },
+                "clanLevel": 5,
+                "stars": 30,
+                "destructionPercentage": 100.0
+            }
+        },
+        {
+            "result": "win",
+            "endTime": "20171105T124115.000Z",
+            "teamSize": 10,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#UGU0C8C",
+                "name": "Pasukan Jogja 2",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/_IeBB4BPWTsO_6BE_M_uzmAnDee65_bgO1sBtN5htgE.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/_IeBB4BPWTsO_6BE_M_uzmAnDee65_bgO1sBtN5htgE.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/_IeBB4BPWTsO_6BE_M_uzmAnDee65_bgO1sBtN5htgE.png"
+                },
+                "clanLevel": 6,
+                "attacks": 12,
+                "stars": 29,
+                "destructionPercentage": 98.3,
+                "expEarned": 224
+            },
+            "opponent": {
+                "tag": "#GY0CL0VJ",
+                "name": "Indo Racing",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/B5tt85qcprgDTKEDt-CD5LDZDfzSo7ULl7XE_475hHE.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/B5tt85qcprgDTKEDt-CD5LDZDfzSo7ULl7XE_475hHE.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/B5tt85qcprgDTKEDt-CD5LDZDfzSo7ULl7XE_475hHE.png"
+                },
+                "clanLevel": 5,
+                "stars": 26,
+                "destructionPercentage": 90.1
+            }
+        },
+        {
+            "result": "win",
+            "endTime": "20171101T120318.000Z",
+            "teamSize": 10,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#UGU0C8C",
+                "name": "Pasukan Jogja 2",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/_IeBB4BPWTsO_6BE_M_uzmAnDee65_bgO1sBtN5htgE.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/_IeBB4BPWTsO_6BE_M_uzmAnDee65_bgO1sBtN5htgE.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/_IeBB4BPWTsO_6BE_M_uzmAnDee65_bgO1sBtN5htgE.png"
+                },
+                "clanLevel": 6,
+                "attacks": 13,
+                "stars": 28,
+                "destructionPercentage": 98.4,
+                "expEarned": 110
+            },
+            "opponent": {
+                "tag": "#UYJGUQVY",
+                "name": "ApeirosSquad811",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/R1X42Eu7-6DY80p4FAxDAorcDk9xrYRpq-qNGhalPeU.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/R1X42Eu7-6DY80p4FAxDAorcDk9xrYRpq-qNGhalPeU.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/R1X42Eu7-6DY80p4FAxDAorcDk9xrYRpq-qNGhalPeU.png"
+                },
+                "clanLevel": 2,
+                "stars": 28,
+                "destructionPercentage": 96.1
+            }
+        },
+        {
+            "result": "win",
+            "endTime": "20171029T135418.000Z",
+            "teamSize": 10,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#UGU0C8C",
+                "name": "Pasukan Jogja 2",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/_IeBB4BPWTsO_6BE_M_uzmAnDee65_bgO1sBtN5htgE.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/_IeBB4BPWTsO_6BE_M_uzmAnDee65_bgO1sBtN5htgE.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/_IeBB4BPWTsO_6BE_M_uzmAnDee65_bgO1sBtN5htgE.png"
+                },
+                "clanLevel": 6,
+                "attacks": 13,
+                "stars": 20,
+                "destructionPercentage": 75.0,
+                "expEarned": 109
+            },
+            "opponent": {
+                "tag": "#RG0229RL",
+                "name": "MYANMAR",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/JbsDx7wq1jZ3yJCM0aSf2epISu-Cy3Pfhd4HsaRBYpI.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/JbsDx7wq1jZ3yJCM0aSf2epISu-Cy3Pfhd4HsaRBYpI.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/JbsDx7wq1jZ3yJCM0aSf2epISu-Cy3Pfhd4HsaRBYpI.png"
+                },
+                "clanLevel": 5,
+                "stars": 14,
+                "destructionPercentage": 47.5
+            }
+        },
+        {
+            "result": "win",
+            "endTime": "20171027T125858.000Z",
+            "teamSize": 10,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#UGU0C8C",
+                "name": "Pasukan Jogja 2",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/_IeBB4BPWTsO_6BE_M_uzmAnDee65_bgO1sBtN5htgE.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/_IeBB4BPWTsO_6BE_M_uzmAnDee65_bgO1sBtN5htgE.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/_IeBB4BPWTsO_6BE_M_uzmAnDee65_bgO1sBtN5htgE.png"
+                },
+                "clanLevel": 6,
+                "attacks": 11,
+                "stars": 28,
+                "destructionPercentage": 95.3,
+                "expEarned": 108
+            },
+            "opponent": {
+                "tag": "#U9QVQ0R2",
+                "name": "CLAN_AKATSUKI",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/JY373iarerfFfuLFE9CLSp8XgmPhsEs5bbiKj_nUF8M.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/JY373iarerfFfuLFE9CLSp8XgmPhsEs5bbiKj_nUF8M.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/JY373iarerfFfuLFE9CLSp8XgmPhsEs5bbiKj_nUF8M.png"
+                },
+                "clanLevel": 2,
+                "stars": 24,
+                "destructionPercentage": 87.6
+            }
+        },
+        {
+            "result": "lose",
+            "endTime": "20171020T131437.000Z",
+            "teamSize": 10,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#UGU0C8C",
+                "name": "Pasukan Jogja 2",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/_IeBB4BPWTsO_6BE_M_uzmAnDee65_bgO1sBtN5htgE.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/_IeBB4BPWTsO_6BE_M_uzmAnDee65_bgO1sBtN5htgE.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/_IeBB4BPWTsO_6BE_M_uzmAnDee65_bgO1sBtN5htgE.png"
+                },
+                "clanLevel": 6,
+                "attacks": 12,
+                "stars": 24,
+                "destructionPercentage": 83.5,
+                "expEarned": 54
+            },
+            "opponent": {
+                "tag": "#JLLRGV0R",
+                "name": "2017 WELCOME",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/qSr91nCMrNFhh--Y79F9m1f7uhgQD_m0Y1QaBTm_oEc.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/qSr91nCMrNFhh--Y79F9m1f7uhgQD_m0Y1QaBTm_oEc.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/qSr91nCMrNFhh--Y79F9m1f7uhgQD_m0Y1QaBTm_oEc.png"
+                },
+                "clanLevel": 4,
+                "stars": 25,
+                "destructionPercentage": 88.5
+            }
+        },
+        {
+            "result": "lose",
+            "endTime": "20171013T162325.000Z",
+            "teamSize": 10,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#UGU0C8C",
+                "name": "Pasukan Jogja 2",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/_IeBB4BPWTsO_6BE_M_uzmAnDee65_bgO1sBtN5htgE.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/_IeBB4BPWTsO_6BE_M_uzmAnDee65_bgO1sBtN5htgE.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/_IeBB4BPWTsO_6BE_M_uzmAnDee65_bgO1sBtN5htgE.png"
+                },
+                "clanLevel": 6,
+                "attacks": 14,
+                "stars": 24,
+                "destructionPercentage": 86.8,
+                "expEarned": 64
+            },
+            "opponent": {
+                "tag": "#QUCYLPJ0",
+                "name": "THE SHIELD",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/wS9GWiohR9gLFqg8EVKySlo38gV4dxv1dudwj7BL9Ic.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/wS9GWiohR9gLFqg8EVKySlo38gV4dxv1dudwj7BL9Ic.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/wS9GWiohR9gLFqg8EVKySlo38gV4dxv1dudwj7BL9Ic.png"
+                },
+                "clanLevel": 5,
+                "stars": 29,
+                "destructionPercentage": 98.0
+            }
+        },
+        {
+            "result": "lose",
+            "endTime": "20171011T143539.000Z",
+            "teamSize": 10,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#UGU0C8C",
+                "name": "Pasukan Jogja 2",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/_IeBB4BPWTsO_6BE_M_uzmAnDee65_bgO1sBtN5htgE.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/_IeBB4BPWTsO_6BE_M_uzmAnDee65_bgO1sBtN5htgE.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/_IeBB4BPWTsO_6BE_M_uzmAnDee65_bgO1sBtN5htgE.png"
+                },
+                "clanLevel": 6,
+                "attacks": 11,
+                "stars": 25,
+                "destructionPercentage": 89.6,
+                "expEarned": 65
+            },
+            "opponent": {
+                "tag": "#QC8R2JLV",
+                "name": "\u062f\u0647\u06a9\u062f\u0647",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/REuMPl3FAw5LBpuSc3q9yLnULe45VaUgmoxYbolK_EY.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/REuMPl3FAw5LBpuSc3q9yLnULe45VaUgmoxYbolK_EY.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/REuMPl3FAw5LBpuSc3q9yLnULe45VaUgmoxYbolK_EY.png"
+                },
+                "clanLevel": 6,
+                "stars": 27,
+                "destructionPercentage": 95.3
+            }
+        },
+        {
+            "result": "win",
+            "endTime": "20171009T100647.000Z",
+            "teamSize": 15,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#UGU0C8C",
+                "name": "Pasukan Jogja 2",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/_IeBB4BPWTsO_6BE_M_uzmAnDee65_bgO1sBtN5htgE.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/_IeBB4BPWTsO_6BE_M_uzmAnDee65_bgO1sBtN5htgE.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/_IeBB4BPWTsO_6BE_M_uzmAnDee65_bgO1sBtN5htgE.png"
+                },
+                "clanLevel": 6,
+                "attacks": 17,
+                "stars": 39,
+                "destructionPercentage": 90.0,
+                "expEarned": 126
+            },
+            "opponent": {
+                "tag": "#JYRGU8JY",
+                "name": "\u6536\u4e4b\u6851\u6986",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/D7Oc0xNmmjCKpjIqB0QW6P59q3rlvmLJOtVqqRKVK4E.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/D7Oc0xNmmjCKpjIqB0QW6P59q3rlvmLJOtVqqRKVK4E.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/D7Oc0xNmmjCKpjIqB0QW6P59q3rlvmLJOtVqqRKVK4E.png"
+                },
+                "clanLevel": 3,
+                "stars": 33,
+                "destructionPercentage": 81.6
+            }
+        },
+        {
+            "result": "lose",
+            "endTime": "20171005T120629.000Z",
+            "teamSize": 20,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#UGU0C8C",
+                "name": "Pasukan Jogja 2",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/_IeBB4BPWTsO_6BE_M_uzmAnDee65_bgO1sBtN5htgE.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/_IeBB4BPWTsO_6BE_M_uzmAnDee65_bgO1sBtN5htgE.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/_IeBB4BPWTsO_6BE_M_uzmAnDee65_bgO1sBtN5htgE.png"
+                },
+                "clanLevel": 6,
+                "attacks": 30,
+                "stars": 50,
+                "destructionPercentage": 91.9,
+                "expEarned": 99
+            },
+            "opponent": {
+                "tag": "#PR2LGCUR",
+                "name": "HIGANJIMA",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/u2jEvcfiQ9Y1PfUklxc55lzYDU4oIdTYmN5DVkquytI.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/u2jEvcfiQ9Y1PfUklxc55lzYDU4oIdTYmN5DVkquytI.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/u2jEvcfiQ9Y1PfUklxc55lzYDU4oIdTYmN5DVkquytI.png"
+                },
+                "clanLevel": 7,
+                "stars": 53,
+                "destructionPercentage": 92.2
+            }
+        },
+        {
+            "result": "win",
+            "endTime": "20170927T134911.000Z",
+            "teamSize": 10,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#UGU0C8C",
+                "name": "Pasukan Jogja 2",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/_IeBB4BPWTsO_6BE_M_uzmAnDee65_bgO1sBtN5htgE.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/_IeBB4BPWTsO_6BE_M_uzmAnDee65_bgO1sBtN5htgE.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/_IeBB4BPWTsO_6BE_M_uzmAnDee65_bgO1sBtN5htgE.png"
+                },
+                "clanLevel": 6,
+                "attacks": 11,
+                "stars": 24,
+                "destructionPercentage": 87.3,
+                "expEarned": 112
+            },
+            "opponent": {
+                "tag": "#Y8P0P9LC",
+                "name": "DakLak VN",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/3A2vwO-ZUU6JI-uh38lKkx8xUbauv20eO3t5a_ujSk8.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/3A2vwO-ZUU6JI-uh38lKkx8xUbauv20eO3t5a_ujSk8.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/3A2vwO-ZUU6JI-uh38lKkx8xUbauv20eO3t5a_ujSk8.png"
+                },
+                "clanLevel": 10,
+                "stars": 23,
+                "destructionPercentage": 90.8
+            }
+        },
+        {
+            "result": "lose",
+            "endTime": "20170924T111541.000Z",
+            "teamSize": 10,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#UGU0C8C",
+                "name": "Pasukan Jogja 2",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/_IeBB4BPWTsO_6BE_M_uzmAnDee65_bgO1sBtN5htgE.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/_IeBB4BPWTsO_6BE_M_uzmAnDee65_bgO1sBtN5htgE.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/_IeBB4BPWTsO_6BE_M_uzmAnDee65_bgO1sBtN5htgE.png"
+                },
+                "clanLevel": 6,
+                "attacks": 11,
+                "stars": 23,
+                "destructionPercentage": 83.7,
+                "expEarned": 62
+            },
+            "opponent": {
+                "tag": "#Q88QRC0R",
+                "name": "PKU COMMUNITY",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/0nz2wkWnN1Kr-jgStbFibZVzBUMVrQcYXI60dd3dySk.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/0nz2wkWnN1Kr-jgStbFibZVzBUMVrQcYXI60dd3dySk.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/0nz2wkWnN1Kr-jgStbFibZVzBUMVrQcYXI60dd3dySk.png"
+                },
+                "clanLevel": 8,
+                "stars": 25,
+                "destructionPercentage": 89.9
+            }
+        },
+        {
+            "result": "lose",
+            "endTime": "20170917T131332.000Z",
+            "teamSize": 10,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#UGU0C8C",
+                "name": "Pasukan Jogja 2",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/_IeBB4BPWTsO_6BE_M_uzmAnDee65_bgO1sBtN5htgE.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/_IeBB4BPWTsO_6BE_M_uzmAnDee65_bgO1sBtN5htgE.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/_IeBB4BPWTsO_6BE_M_uzmAnDee65_bgO1sBtN5htgE.png"
+                },
+                "clanLevel": 6,
+                "attacks": 13,
+                "stars": 24,
+                "destructionPercentage": 82.5,
+                "expEarned": 56
+            },
+            "opponent": {
+                "tag": "#RJJGVVCY",
+                "name": "Land of Lion's",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/YM9o6BsRdE5jyJCfuOsIj6SsIvrszd70gQQV7JTzl6E.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/YM9o6BsRdE5jyJCfuOsIj6SsIvrszd70gQQV7JTzl6E.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/YM9o6BsRdE5jyJCfuOsIj6SsIvrszd70gQQV7JTzl6E.png"
+                },
+                "clanLevel": 5,
+                "stars": 26,
+                "destructionPercentage": 86.8
+            }
+        },
+        {
+            "result": "win",
+            "endTime": "20170914T113500.000Z",
+            "teamSize": 10,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#UGU0C8C",
+                "name": "Pasukan Jogja 2",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/_IeBB4BPWTsO_6BE_M_uzmAnDee65_bgO1sBtN5htgE.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/_IeBB4BPWTsO_6BE_M_uzmAnDee65_bgO1sBtN5htgE.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/_IeBB4BPWTsO_6BE_M_uzmAnDee65_bgO1sBtN5htgE.png"
+                },
+                "clanLevel": 6,
+                "attacks": 12,
+                "stars": 24,
+                "destructionPercentage": 89.7,
+                "expEarned": 110
+            },
+            "opponent": {
+                "tag": "#JC8P0G8P",
+                "name": "req & leave",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/DcHcgP14dK0OPmf_G77JtangGL7_5u6oAOWUbbXP8Yw.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/DcHcgP14dK0OPmf_G77JtangGL7_5u6oAOWUbbXP8Yw.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/DcHcgP14dK0OPmf_G77JtangGL7_5u6oAOWUbbXP8Yw.png"
+                },
+                "clanLevel": 1,
+                "stars": 3,
+                "destructionPercentage": 13.1
+            }
+        },
+        {
+            "result": "win",
+            "endTime": "20170911T172731.000Z",
+            "teamSize": 10,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#UGU0C8C",
+                "name": "Pasukan Jogja 2",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/_IeBB4BPWTsO_6BE_M_uzmAnDee65_bgO1sBtN5htgE.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/_IeBB4BPWTsO_6BE_M_uzmAnDee65_bgO1sBtN5htgE.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/_IeBB4BPWTsO_6BE_M_uzmAnDee65_bgO1sBtN5htgE.png"
+                },
+                "clanLevel": 6,
+                "attacks": 11,
+                "stars": 25,
+                "destructionPercentage": 83.4,
+                "expEarned": 110
+            },
+            "opponent": {
+                "tag": "#QGCJUPJV",
+                "name": "ASIA",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/wf0U2_73tx6I9FBcMpS2CmiKF3bei47Gspg1V3lav90.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/wf0U2_73tx6I9FBcMpS2CmiKF3bei47Gspg1V3lav90.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/wf0U2_73tx6I9FBcMpS2CmiKF3bei47Gspg1V3lav90.png"
+                },
+                "clanLevel": 5,
+                "stars": 3,
+                "destructionPercentage": 10.0
+            }
+        },
+        {
+            "result": "lose",
+            "endTime": "20170907T104723.000Z",
+            "teamSize": 10,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#UGU0C8C",
+                "name": "Pasukan Jogja 2",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/_IeBB4BPWTsO_6BE_M_uzmAnDee65_bgO1sBtN5htgE.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/_IeBB4BPWTsO_6BE_M_uzmAnDee65_bgO1sBtN5htgE.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/_IeBB4BPWTsO_6BE_M_uzmAnDee65_bgO1sBtN5htgE.png"
+                },
+                "clanLevel": 6,
+                "attacks": 14,
+                "stars": 23,
+                "destructionPercentage": 78.3,
+                "expEarned": 60
+            },
+            "opponent": {
+                "tag": "#LCJ9GY0G",
+                "name": "toleroso@PH.com",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/jH4A427v9SKzegJNeWaQegoFB0m9VBH-ZXzXCPujFF4.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/jH4A427v9SKzegJNeWaQegoFB0m9VBH-ZXzXCPujFF4.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/jH4A427v9SKzegJNeWaQegoFB0m9VBH-ZXzXCPujFF4.png"
+                },
+                "clanLevel": 7,
+                "stars": 27,
+                "destructionPercentage": 93.0
+            }
+        },
+        {
+            "result": "lose",
+            "endTime": "20170904T232353.000Z",
+            "teamSize": 10,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#UGU0C8C",
+                "name": "Pasukan Jogja 2",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/_IeBB4BPWTsO_6BE_M_uzmAnDee65_bgO1sBtN5htgE.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/_IeBB4BPWTsO_6BE_M_uzmAnDee65_bgO1sBtN5htgE.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/_IeBB4BPWTsO_6BE_M_uzmAnDee65_bgO1sBtN5htgE.png"
+                },
+                "clanLevel": 6,
+                "attacks": 12,
+                "stars": 25,
+                "destructionPercentage": 87.6,
+                "expEarned": 65
+            },
+            "opponent": {
+                "tag": "#J2Y9J2PQ",
+                "name": "NUPA 18 YEAR CC",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/fWervXVIi92UOVSbkcHIcOJBRx63pSr-ExM6M-ZqO54.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/fWervXVIi92UOVSbkcHIcOJBRx63pSr-ExM6M-ZqO54.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/fWervXVIi92UOVSbkcHIcOJBRx63pSr-ExM6M-ZqO54.png"
+                },
+                "clanLevel": 4,
+                "stars": 29,
+                "destructionPercentage": 95.3
+            }
+        }
+    ],
+    "paging": {
+        "cursors": {
+            "after": "eyJwb3MiOjUwfQ"
+        }
+    }
+}

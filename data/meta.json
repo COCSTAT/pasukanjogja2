@@ -1,0 +1,23 @@
+{
+    "fetchedAt": "2026-09-28T13:04:25.354366Z",
+    "goldpass": {
+        "startTime": "20260901T080000.000Z",
+        "endTime": "20261001T080000.000Z"
+    },
+    "countryRank": {
+        "locationId": 32000114,
+        "locationName": "Indonesia",
+        "rank": null,
+        "scanned": 200,
+        "trophies": 200,
+        "warLeague": {
+            "id": 48000006,
+            "name": "Silver League I"
+        },
+        "capitalLeague": {
+            "id": 85000002,
+            "name": "Bronze League II"
+        }
+    },
+    "cwl": null
+}
