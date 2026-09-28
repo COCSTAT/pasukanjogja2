@@ -31,7 +31,7 @@ import {
 import { renderCharts } from './charts.js';
 import { raidParticipation, raidAbsentees, raidAttendanceSummary } from './raidstats.js';
 import { freshness, newestTimestamp } from './freshness.js';
-import { renderBotCard } from './botlinks.js';
+import { renderBotCard, SOURCE_URL } from './botlinks.js';
 
 // Data-freshness indicator (spec §10): the chip tracks whichever pipeline
 // synced last — the daily clan job (meta.fetchedAt) or the 15m war/raid
@@ -209,6 +209,10 @@ function renderKpis(clan) {
     card.innerHTML = renderBotCard();
     grid.after(card.firstElementChild);
 }
+
+// The sidebar credit is the one place the source repo is linked, so it reads
+// its href from SOURCE_URL rather than a second hardcoded copy in the markup.
+document.querySelector('.sidebar-credit')?.setAttribute('href', SOURCE_URL);
 
 function updateHeader(name, badgeUrl) {
     const title = document.getElementById('pageTitle');
