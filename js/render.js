@@ -594,7 +594,7 @@ export function renderAbout(clanData) {
                         <img src="${esc(clanData.badgeUrls.medium)}" class="w-16 h-16 md:w-20 md:h-20">
                         <div>
                             <h2 class="medieval text-xl md:text-2xl font-bold gold">${esc(clanData.name)}</h2>
-                            <div class="flex items-center gap-2 mt-1"><span class="text-[10px] md:text-xs font-mono text-gray-500">${esc(clanData.tag)}</span></div>
+                            <div class="flex items-center gap-2 mt-1"><span class="text-[10px] md:text-xs font-mono text-gray-500" id="clanTag">${esc(clanData.tag)}</span><button type="button" class="copy-tag" data-tag="${esc(clanData.tag)}" title="Copy clan tag">COPY</button></div>
                         </div>
                     </div>
                     <p class="text-[11px] md:text-sm text-gray-300 leading-relaxed italic">${esc(clanData.description)}</p>

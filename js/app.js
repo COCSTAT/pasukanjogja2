@@ -31,7 +31,7 @@ import {
 import { renderCharts } from './charts.js';
 import { raidParticipation, raidAbsentees, raidAttendanceSummary } from './raidstats.js';
 import { freshness, newestTimestamp } from './freshness.js';
-import { renderBotPills, renderBotCard } from './botlinks.js';
+import { renderBotCard } from './botlinks.js';
 
 // Data-freshness indicator (spec §10): the chip tracks whichever pipeline
 // synced last — the daily clan job (meta.fetchedAt) or the 15m war/raid
@@ -209,9 +209,6 @@ function renderKpis(clan) {
     card.innerHTML = renderBotCard();
     grid.after(card.firstElementChild);
 }
-
-// Sidebar pills are static, so render once at module load.
-document.getElementById('sidebarLinks')?.insertAdjacentHTML('afterbegin', renderBotPills());
 
 function updateHeader(name, badgeUrl) {
     const title = document.getElementById('pageTitle');
@@ -441,6 +438,24 @@ function handleInitialRoute() {
 function bindAboutPageEvents() {
     const btn = document.getElementById('viewWarHistoryBtn');
     if (btn) btn.onclick = () => { switchView('war'); };
+    // Copy the clan tag for recruits. navigator.clipboard needs a secure
+    // context, which GitHub Pages is; the execCommand path is the fallback
+    // for plain-http local testing.
+    document.querySelectorAll('.copy-tag').forEach(b => {
+        b.onclick = async () => {
+            const tag = b.dataset.tag || '';
+            try {
+                await navigator.clipboard.writeText(tag);
+            } catch {
+                const t = document.createElement('textarea');
+                t.value = tag; document.body.appendChild(t); t.select();
+                document.execCommand('copy'); t.remove();
+            }
+            b.textContent = 'COPIED';
+            b.classList.add('done');
+            setTimeout(() => { b.textContent = 'COPY'; b.classList.remove('done'); }, 1400);
+        };
+    });
 }
 
 async function handleMemberDateChange(dateValue, shouldFetch = true) {
