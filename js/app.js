@@ -31,6 +31,7 @@ import {
 import { renderCharts } from './charts.js';
 import { raidParticipation, raidAbsentees, raidAttendanceSummary } from './raidstats.js';
 import { freshness, newestTimestamp } from './freshness.js';
+import { renderBotPills, renderBotCard } from './botlinks.js';
 
 // Data-freshness indicator (spec §10): the chip tracks whichever pipeline
 // synced last — the daily clan job (meta.fetchedAt) or the 15m war/raid
@@ -201,7 +202,16 @@ function renderKpis(clan) {
             <p class="kpi-sub">avg ${(members.length ? members.reduce((s, m) => s + (m.townHallLevel || 0), 0) / members.length : 0).toFixed(1)} · max TH${Math.max(0, ...members.map(m => m.townHallLevel || 0))}</p>
         </div>`;
     host.insertBefore(grid, host.firstChild);
+    // Community card sits directly under the KPI strip. Idempotent like the
+    // grid above it — renderKpis runs on init, repaint and tab click.
+    host.querySelector('.bot-card')?.remove();
+    const card = document.createElement('div');
+    card.innerHTML = renderBotCard();
+    grid.after(card.firstElementChild);
 }
+
+// Sidebar pills are static, so render once at module load.
+document.getElementById('sidebarLinks')?.insertAdjacentHTML('afterbegin', renderBotPills());
 
 function updateHeader(name, badgeUrl) {
     const title = document.getElementById('pageTitle');
