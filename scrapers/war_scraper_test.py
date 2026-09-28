@@ -51,13 +51,33 @@ def check(name, cond, detail=""):
     checks.append(cond)
     print(("PASS  " if cond else "FAIL  ") + name + (f"   [{detail}]" if detail else ""))
 
-r = run("prep", tmp);            check("preparation -> no file, exit 0", snap() == (None, False) and r.returncode == 0, r.stdout.strip() + r.stderr.strip()[:120])
-r = run("notinwar", tmp);        check("404 notInWar -> exit 0, no file", snap() == (None, False) and r.returncode == 0, r.stdout.strip()[:80])
 r = run("forbidden", tmp);       check("403 -> hard fail (red CI)", r.returncode != 0 and "Failed to fetch" in r.stdout + r.stderr, (r.stdout + r.stderr).strip()[-90:])
 r = run("live", tmp);            check("first inWar -> writes file + index", snap() == (40, True), r.stdout.strip()[:80])
 r = run("live", tmp);            check("identical re-run -> no commit churn", snap() == (40, True) and "No change" in r.stdout, r.stdout.strip()[:80])
 r = run("live", tmp, stars=55);  check("progress -> file updated to 55", snap() == (55, True), r.stdout.strip()[:80])
 r = run("ended", tmp);           check("warEnded -> finalised, stars stay 40", snap()[0] == 40 and "state=warEnded" in r.stdout, r.stdout.strip()[:90])
+
+# 'preparation' and 404 both get their own sandbox: the prep run now leaves a
+# real file behind (it must, so the site can show the upcoming opponent), which
+# would otherwise contaminate the shared tmp used by the inWar checks above.
+def sandbox():
+    d = tempfile.mkdtemp()
+    os.makedirs(os.path.join(d, "data/war_stats"))
+    return d
+def state_of(d, f=F):
+    p = os.path.join(d, "data/war_stats", f)
+    return json.load(open(p)) if os.path.exists(p) else None
+
+d1 = sandbox(); r = run("prep", d1)
+p = state_of(d1)
+check("preparation -> saves opponent for the war list", p is not None and p["state"] == "preparation"
+      and r.returncode == 0, r.stdout.strip()[:80])
+check("preparation -> 0 attacks, so stats stay clean", p and p["clan"]["stars"] == 0 and p["clan"]["attacks"] == 0)
+shutil.rmtree(d1)
+
+d2 = sandbox(); r = run("notinwar", d2)
+check("404 notInWar -> exit 0, no file", state_of(d2) is None and r.returncode == 0, r.stdout.strip()[:60])
+shutil.rmtree(d2)
 
 idx = json.load(open(os.path.join(tmp, "data/war_stats_index.json")))
 check("index holds one entry, oldest-first sort", idx == [F], str(idx))

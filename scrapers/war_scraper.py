@@ -5,9 +5,13 @@ import retention
 from config import BASE_URL, CLAN_TAG, HEADERS
 
 # Only these states carry per-player attack data worth archiving.
-# 'preparation' = 0 attacks (would pollute history as a fake draw),
+# 'preparation' is saved so the site can show the upcoming opponent, team size
+#   and battle-day schedule ~a day before the war — exactly when members want
+#   to know. It always carries 0 attacks, so isWarDecided() in js/app.js
+#   excludes it from win rate, star totals and the Stats charts; it shows up in
+#   the war list as "upcoming" instead.
 # 'notInWar'    = nothing to save.
-SAVABLE_STATES = ("inWar", "warEnded")
+SAVABLE_STATES = ("preparation", "inWar", "warEnded")
 
 
 def update_war_data():
