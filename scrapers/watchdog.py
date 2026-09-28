@@ -123,13 +123,13 @@ def main():
     print("watchdog: PROBLEMS DETECTED\n" + summary)
 
     sent = discord.send(embed={
-        'title': '⚠️ 99N scrapers look stalled',
+        'title': '⚠️ Clan scrapers look stalled',
         'description': (
             'The dashboard is serving stale data — scheduled updates are not '
             'landing.\n\n' + summary
         ),
         'color': embeds.RED,
-        'footer': {'text': '99N War Room · watchdog'},
+        'footer': {'text': 'Clan War Room · watchdog'},
     })
     print(f"watchdog: alert sent={sent}")
     # Exit non-zero so the Actions run goes red too: Discord is best-effort,

@@ -8,7 +8,7 @@ from config import BASE_URL, CLAN_TAG, HEADERS, RAW_TAG
 # from the snapshots themselves:
 #  - goldpass season window (for a countdown card)
 #  - clan position in its country's trophy ranking (paginated top-1000)
-#  - CWL league group, when 99N is in a season
+#  - CWL league group, when the clan is in a season
 # Each block fails independently; partial meta beats no meta.
 
 

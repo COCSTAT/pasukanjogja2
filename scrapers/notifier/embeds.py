@@ -5,6 +5,12 @@ reused by the manual broadcast page (which posts the same JSON through the
 browser). Colours are decimal RGB.
 """
 
+from datetime import datetime, timezone, timedelta
+
+# Asia/Jakarta is UTC+7 with no DST, so a fixed offset is exact and avoids
+# pulling in a tz database on the Actions runner.
+WIB = timezone(timedelta(hours=7))
+
 GOLD = 0xF5B942
 GREEN = 0x3BA55D
 RED = 0xED4245
@@ -13,10 +19,22 @@ GREY = 0x95A5A6
 
 
 def _date(coc_time):
-    """'20260916T041524.000Z' -> '2026-09-16 04:15 UTC'"""
+    """'20260916T041524.000Z' -> '2026-09-16 11:15 WIB'
+
+    The CoC API always speaks UTC, but the clan reads these in Jakarta time —
+    a battle day announced as 13:11 UTC reads as "middle of the night" locally
+    and gets misread. Site-wide the app already formats in WIB (see
+    formatWIB in js/freshness.js); this keeps the Discord embeds consistent.
+    """
     if not coc_time or len(coc_time) < 13:
         return coc_time or '—'
-    return f"{coc_time[0:4]}-{coc_time[4:6]}-{coc_time[6:8]} {coc_time[9:11]}:{coc_time[11:13]} UTC"
+    try:
+        dt = datetime.strptime(coc_time[:15], '%Y%m%dT%H%M%S').replace(tzinfo=timezone.utc)
+        return dt.astimezone(WIB).strftime('%Y-%m-%d %H:%M WIB')
+    except ValueError:
+        # Unparseable input should still produce something readable, not crash
+        # the whole notification.
+        return f"{coc_time[0:4]}-{coc_time[4:6]}-{coc_time[6:8]} {coc_time[9:11]}:{coc_time[11:13]} WIB"
 
 
 def war_preview(war):
@@ -33,7 +51,7 @@ def war_preview(war):
             {'name': 'Attacks/member', 'value': str(war.get('attacksPerMember', 2)), 'inline': True},
             {'name': 'Battle modifier', 'value': str(war.get('battleModifier', 'none')).title(), 'inline': True},
         ],
-        'footer': {'text': '99N War Room · preparation'},
+        'footer': {'text': 'Clan War Room · preparation'},
     }
 
 
@@ -56,7 +74,7 @@ def war_result(war):
                        f"Attacks used {clan.get('attacks', 0)} vs {opp.get('attacks', 0)}"
                        f" of {war.get('teamSize', 0) * war.get('attacksPerMember', 2)}",
         'color': color,
-        'footer': {'text': f"99N War Room · ended {_date(war.get('endTime'))}"},
+        'footer': {'text': f"Clan War Room · ended {_date(war.get('endTime'))}"},
     }
 
 
@@ -66,7 +84,7 @@ def raid_start(raid):
         'description': f"Capitol raid weekend began **{_date(raid.get('startTime'))}**.\n"
                        f"Ends **{_date(raid.get('endTime'))}** — go raid!",
         'color': GOLD,
-        'footer': {'text': '99N War Room · capital raids'},
+        'footer': {'text': 'Clan War Room · capital raids'},
     }
 
 
@@ -88,7 +106,7 @@ def raid_summary(raid):
             {'name': 'Offensive reward', 'value': f"{raid.get('offensiveReward', 0)}", 'inline': True},
             {'name': 'Defensive reward', 'value': f"{raid.get('defensiveReward', 0)}", 'inline': True},
         ],
-        'footer': {'text': f"99N War Room · weekend {_date(raid.get('startTime'))}"},
+        'footer': {'text': f"Clan War Room · weekend {_date(raid.get('startTime'))}"},
     }
 
 
@@ -102,7 +120,7 @@ def membership_change(joined, left, total):
         'title': '👥 Roster changed',
         'description': '\n'.join(lines) + f"\nNow **{total}/50** members.",
         'color': BLUE,
-        'footer': {'text': '99N War Room · membership'},
+        'footer': {'text': 'Clan War Room · membership'},
     }
 
 
@@ -119,5 +137,5 @@ def donation_week(prev_totals, totals, top):
                        f"({delta:+,} vs last close).",
         'color': GREEN,
         'fields': [{'name': 'Early leaders', 'value': top_txt, 'inline': False}],
-        'footer': {'text': '99N War Room · donations'},
+        'footer': {'text': 'Clan War Room · donations'},
     }
