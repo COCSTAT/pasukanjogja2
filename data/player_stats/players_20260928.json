@@ -1,5 +1,5 @@
 {
-    "fetchedAt": "2026-09-28T13:17:39.643931Z",
+    "fetchedAt": "2026-09-28T14:53:21.365101Z",
     "players": {
         "#2UU9VRLCG": {
             "tag": "#2UU9VRLCG",
@@ -47,9 +47,9 @@
             "warStars": 350,
             "attackWins": 0,
             "defenseWins": 0,
-            "builderBaseTrophies": 2792,
+            "builderBaseTrophies": 2767,
             "bestBuilderBaseTrophies": 2842,
-            "donations": 3390,
+            "donations": 3425,
             "donationsReceived": 2199,
             "clanCapitalContributions": 76228,
             "role": "coLeader",
@@ -68,7 +68,7 @@
             "builderBaseTrophies": 2460,
             "bestBuilderBaseTrophies": 2670,
             "donations": 3046,
-            "donationsReceived": 2704,
+            "donationsReceived": 2724,
             "clanCapitalContributions": 126391,
             "role": "leader",
             "currentLeagueGroupTag": "#8CLPQQ0"
@@ -113,7 +113,7 @@
             "tag": "#8VRUGQPC",
             "name": "zai nab",
             "townHallLevel": 13,
-            "expLevel": 145,
+            "expLevel": 146,
             "trophies": 0,
             "bestTrophies": 3200,
             "warStars": 455,
@@ -121,7 +121,7 @@
             "defenseWins": 0,
             "builderBaseTrophies": 2455,
             "bestBuilderBaseTrophies": 2592,
-            "donations": 3942,
+            "donations": 3972,
             "donationsReceived": 598,
             "clanCapitalContributions": 129266,
             "role": "coLeader",
@@ -140,7 +140,7 @@
             "builderBaseTrophies": 1707,
             "bestBuilderBaseTrophies": 1718,
             "donations": 737,
-            "donationsReceived": 2539,
+            "donationsReceived": 2559,
             "clanCapitalContributions": 69944,
             "role": "coLeader",
             "currentLeagueGroupTag": "#8CUYY29"
@@ -212,7 +212,7 @@
             "builderBaseTrophies": 1901,
             "bestBuilderBaseTrophies": 1964,
             "donations": 47,
-            "donationsReceived": 798,
+            "donationsReceived": 833,
             "clanCapitalContributions": 100,
             "role": "admin",
             "currentLeagueGroupTag": null
@@ -283,9 +283,9 @@
             "defenseWins": 0,
             "builderBaseTrophies": 482,
             "bestBuilderBaseTrophies": 482,
-            "donations": 560,
-            "donationsReceived": 799,
-            "clanCapitalContributions": 54931,
+            "donations": 642,
+            "donationsReceived": 830,
+            "clanCapitalContributions": 56387,
             "role": "member",
             "currentLeagueGroupTag": null
         },
@@ -337,8 +337,8 @@
             "defenseWins": 0,
             "builderBaseTrophies": 2215,
             "bestBuilderBaseTrophies": 2303,
-            "donations": 3322,
-            "donationsReceived": 1917,
+            "donations": 3393,
+            "donationsReceived": 2029,
             "clanCapitalContributions": 187164,
             "role": "admin",
             "currentLeagueGroupTag": null

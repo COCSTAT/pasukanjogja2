@@ -17,7 +17,7 @@
     },
     "clanLevel": 8,
     "clanPoints": 14800,
-    "clanBuilderBasePoints": 16669,
+    "clanBuilderBasePoints": 16656,
     "clanCapitalPoints": 486,
     "capitalLeague": {
         "id": 85000002,
@@ -165,10 +165,10 @@
                 }
             },
             "trophies": 0,
-            "builderBaseTrophies": 2792,
+            "builderBaseTrophies": 2767,
             "clanRank": 3,
             "previousClanRank": 3,
-            "donations": 3390,
+            "donations": 3425,
             "donationsReceived": 2199,
             "playerHouse": {
                 "elements": [
@@ -223,7 +223,7 @@
             "clanRank": 4,
             "previousClanRank": 4,
             "donations": 3046,
-            "donationsReceived": 2704,
+            "donationsReceived": 2724,
             "playerHouse": {
                 "elements": [
                     {
@@ -360,7 +360,7 @@
             "name": "zai nab",
             "role": "coLeader",
             "townHallLevel": 13,
-            "expLevel": 145,
+            "expLevel": 146,
             "league": {
                 "id": 29000000,
                 "name": "Unranked",
@@ -381,7 +381,7 @@
             "builderBaseTrophies": 2455,
             "clanRank": 7,
             "previousClanRank": 7,
-            "donations": 3942,
+            "donations": 3972,
             "donationsReceived": 598,
             "playerHouse": {
                 "elements": [
@@ -435,7 +435,7 @@
             "clanRank": 8,
             "previousClanRank": 8,
             "donations": 737,
-            "donationsReceived": 2539,
+            "donationsReceived": 2559,
             "playerHouse": {
                 "elements": [
                     {
@@ -647,7 +647,7 @@
             "clanRank": 12,
             "previousClanRank": 12,
             "donations": 47,
-            "donationsReceived": 798,
+            "donationsReceived": 833,
             "playerHouse": {
                 "elements": [
                     {
@@ -858,8 +858,8 @@
             "builderBaseTrophies": 482,
             "clanRank": 16,
             "previousClanRank": 16,
-            "donations": 560,
-            "donationsReceived": 799,
+            "donations": 642,
+            "donationsReceived": 830,
             "playerHouse": {
                 "elements": [
                     {
@@ -1017,8 +1017,8 @@
             "builderBaseTrophies": 2215,
             "clanRank": 19,
             "previousClanRank": 19,
-            "donations": 3322,
-            "donationsReceived": 1917,
+            "donations": 3393,
+            "donationsReceived": 2029,
             "playerHouse": {
                 "elements": [
                     {
