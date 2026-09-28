@@ -78,10 +78,4 @@ All of it runs in CI on every push and PR.
 
 ---
 
-## Attribution
 
-The frontend and scrapers derive from [fthyll/99N](https://github.com/fthyll/99N),
-which carries **no LICENSE file** — so no open-source licence was inherited from
-it. The MIT grant in [`LICENSE`](LICENSE) therefore covers COCSTAT's own work
-(scrapers, CI, rebranding, UI changes) and does not relicense upstream code. See
-the provenance note in that file before reusing this.
