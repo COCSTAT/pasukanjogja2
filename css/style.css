@@ -165,9 +165,24 @@ body {
         font-size: 9px; letter-spacing: 0.08em; text-transform: uppercase;
         color: var(--muted); text-align: center; line-height: 1.6;
     }
-    .freshness { margin: auto 0 0; }  /* pin to sidebar bottom on desktop */
+    /* Two stacked auto margins would fight, so the freshness chip gives up its
+       own auto margin and the note below it owns the push-to-bottom instead. */
+    .freshness { margin: 12px 0 0; }
     .content { padding: 24px 32px 56px; }
 }
+
+/* Bot links live under the sidebar note. Hidden on mobile: the top bar is
+   already a horizontal scroller there and three more rows would push the
+   content off-screen. They stay reachable from the Overview tab instead. */
+.sidebar-links { display: none; margin-top: 8px; gap: 4px; }
+.sidebar-links a {
+    display: inline-flex; align-items: center; gap: 5px;
+    padding: 3px 8px; border: 1px solid rgb(var(--s-line-dim));
+    border-radius: 999px; font-size: 8px; letter-spacing: 0.06em;
+    color: var(--muted); transition: all 0.18s; text-decoration: none;
+}
+.sidebar-links a:hover { color: rgb(var(--gold)); border-color: rgb(var(--gold-deep)); }
+@media (min-width: 1024px) { .sidebar-links { display: flex; justify-content: center; } }
 
 /* Theme toggle: only the actionable icon shows */
 .theme-toggle {

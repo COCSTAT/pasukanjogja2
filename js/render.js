@@ -650,6 +650,18 @@ export function renderAbout(clanData) {
                         <div class="p-3 bg-card rounded-lg flex justify-between items-center h-[58px]"><p class="stat-label">Min. Town Hall</p><p class="stat-value text-white text-[11px] md:text-xs">TH${clanData.requiredTownhallLevel}</p></div>
                         <div class="p-3 bg-card rounded-lg flex justify-between items-center h-[58px]"><p class="stat-label">Builder Trophies</p><p class="stat-value text-white text-[11px] md:text-xs">${clanData.requiredBuilderBaseTrophies.toLocaleString()}</p></div>
                     </div>
+                    <div class="mt-3 pt-3 border-t border-gray-800 flex flex-wrap gap-2">
+                        <a href="https://t.me/hermest_arsid_bot" target="_blank" rel="noopener noreferrer"
+                           class="inline-flex items-center gap-1.5 px-2.5 py-1.5 bg-card border border-gray-700 rounded-lg text-[10px] md:text-[11px] font-bold uppercase tracking-wide hover:border-gold transition-colors">
+                            <svg viewBox="0 0 24 24" fill="currentColor" class="w-3.5 h-3.5"><path d="M9.78 18.65l.28-4.23 7.68-6.92c.34-.31-.07-.46-.52-.19L7.74 13.3 3.64 12c-.88-.25-.89-.86.2-1.3l15.97-6.16c.73-.33 1.44.18 1.15 1.3l-2.72 12.81c-.19.91-.74 1.13-1.5.71L12.6 16.3l-1.99 1.93c-.23.23-.42.42-.83.42z"/></svg>
+                            Bot Telegram
+                        </a>
+                        <a href="https://discord.com/oauth2/authorize?client_id=1554008513913561119&amp;scope=bot%20applications.commands" target="_blank" rel="noopener noreferrer"
+                           class="inline-flex items-center gap-1.5 px-2.5 py-1.5 bg-card border border-gray-700 rounded-lg text-[10px] md:text-[11px] font-bold uppercase tracking-wide hover:border-gold transition-colors">
+                            <svg viewBox="0 0 24 24" fill="currentColor" class="w-3.5 h-3.5"><path d="M19.3 5.3A16.9 16.9 0 0015.4 4l-.2.4a12.7 12.7 0 013.5 1.7 15.6 15.6 0 00-13.4 0A12.7 12.7 0 018.8 4.4L8.6 4a16.9 16.9 0 00-3.9 1.3C2.3 9.2 1.5 13 1.9 16.8a17 17 0 005.1 2.6l1-1.7c-.6-.2-1.1-.5-1.6-.8l.4-.3a12 12 0 0010.4 0l.4.3c-.5.3-1 .6-1.6.8l1 1.7a17 17 0 005.1-2.6c.5-4.4-.7-8.2-2.8-11.5zM8.3 14.6c-1 0-1.8-.9-1.8-2s.8-2 1.8-2 1.8.9 1.8 2-.8 2-1.8 2zm7.4 0c-1 0-1.8-.9-1.8-2s.8-2 1.8-2 1.8.9 1.8 2-.8 2-1.8 2z"/></svg>
+                            Bot Discord
+                        </a>
+                    </div>
                 </div>
             </div>
         </div>
