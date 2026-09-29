@@ -57,7 +57,15 @@
                         "duration": 106
                     }
                 ],
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#GCQU9U8PJ",
+                    "defenderTag": "#R0Q8QVUUY",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 22,
+                    "duration": 107
+                }
             },
             {
                 "tag": "#2V29JQYYQ",
@@ -188,7 +196,7 @@
                         "duration": 143
                     }
                 ],
-                "opponentAttacks": 1,
+                "opponentAttacks": 2,
                 "bestOpponentAttack": {
                     "attackerTag": "#LJL9JQUP9",
                     "defenderTag": "#LLP0P9GV8",
@@ -203,7 +211,15 @@
                 "name": "PG",
                 "townhallLevel": 10,
                 "mapPosition": 8,
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#GG8VJQRC2",
+                    "defenderTag": "#R9R08L2L8",
+                    "stars": 2,
+                    "destructionPercentage": 75,
+                    "order": 21,
+                    "duration": 130
+                }
             },
             {
                 "tag": "#R9JCU8Q88",
@@ -243,7 +259,15 @@
                 "name": "valeria",
                 "townhallLevel": 10,
                 "mapPosition": 9,
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#R00RRYJG8",
+                    "defenderTag": "#GUVVY9VPQ",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 20,
+                    "duration": 110
+                }
             }
         ]
     },
@@ -256,9 +280,9 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/2zn76AQoVMAcTCh5ckbllv1359aYvZCGFjLnroEgrRc.png"
         },
         "clanLevel": 6,
-        "attacks": 7,
-        "stars": 18,
-        "destructionPercentage": 67.3,
+        "attacks": 11,
+        "stars": 26,
+        "destructionPercentage": 94.8,
         "members": [
             {
                 "tag": "#GLGV28RPP",
@@ -273,6 +297,14 @@
                         "destructionPercentage": 100,
                         "order": 9,
                         "duration": 123
+                    },
+                    {
+                        "attackerTag": "#GLGV28RPP",
+                        "defenderTag": "#LLP0P9GV8",
+                        "stars": 1,
+                        "destructionPercentage": 66,
+                        "order": 19,
+                        "duration": 146
                     }
                 ],
                 "opponentAttacks": 1,
@@ -290,6 +322,16 @@
                 "name": "Patto_tective",
                 "townhallLevel": 10,
                 "mapPosition": 9,
+                "attacks": [
+                    {
+                        "attackerTag": "#GG8VJQRC2",
+                        "defenderTag": "#R9R08L2L8",
+                        "stars": 2,
+                        "destructionPercentage": 75,
+                        "order": 21,
+                        "duration": 130
+                    }
+                ],
                 "opponentAttacks": 1,
                 "bestOpponentAttack": {
                     "attackerTag": "#R9JCU8Q88",
@@ -328,6 +370,14 @@
                         "destructionPercentage": 100,
                         "order": 10,
                         "duration": 80
+                    },
+                    {
+                        "attackerTag": "#R00RRYJG8",
+                        "defenderTag": "#GUVVY9VPQ",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 20,
+                        "duration": 110
                     }
                 ],
                 "opponentAttacks": 1,
@@ -464,6 +514,14 @@
                         "destructionPercentage": 100,
                         "order": 15,
                         "duration": 97
+                    },
+                    {
+                        "attackerTag": "#GCQU9U8PJ",
+                        "defenderTag": "#R0Q8QVUUY",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 22,
+                        "duration": 107
                     }
                 ],
                 "opponentAttacks": 1,
