@@ -1,6 +1,39 @@
 {
     "items": [
         {
+            "result": "win",
+            "endTime": "20260930T131150.000Z",
+            "teamSize": 10,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#UGU0C8C",
+                "name": "Pasukan Jogja 2",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/bNqs9QXo_BfJCWbwiavDUupXacx1TmXfC_lGbkDLtoA.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/bNqs9QXo_BfJCWbwiavDUupXacx1TmXfC_lGbkDLtoA.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/bNqs9QXo_BfJCWbwiavDUupXacx1TmXfC_lGbkDLtoA.png"
+                },
+                "clanLevel": 8,
+                "attacks": 12,
+                "stars": 30,
+                "destructionPercentage": 100.0,
+                "expEarned": 162
+            },
+            "opponent": {
+                "tag": "#2RQ8GLVJY",
+                "name": "los pollos",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/2zn76AQoVMAcTCh5ckbllv1359aYvZCGFjLnroEgrRc.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/2zn76AQoVMAcTCh5ckbllv1359aYvZCGFjLnroEgrRc.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/2zn76AQoVMAcTCh5ckbllv1359aYvZCGFjLnroEgrRc.png"
+                },
+                "clanLevel": 6,
+                "stars": 26,
+                "destructionPercentage": 94.8
+            }
+        },
+        {
             "result": "lose",
             "endTime": "20260928T021029.000Z",
             "teamSize": 15,
@@ -1609,39 +1642,6 @@
                 "clanLevel": 7,
                 "stars": 27,
                 "destructionPercentage": 93.0
-            }
-        },
-        {
-            "result": "lose",
-            "endTime": "20170904T232353.000Z",
-            "teamSize": 10,
-            "attacksPerMember": 2,
-            "battleModifier": "none",
-            "clan": {
-                "tag": "#UGU0C8C",
-                "name": "Pasukan Jogja 2",
-                "badgeUrls": {
-                    "small": "https://api-assets.clashofclans.com/badges/70/_IeBB4BPWTsO_6BE_M_uzmAnDee65_bgO1sBtN5htgE.png",
-                    "large": "https://api-assets.clashofclans.com/badges/512/_IeBB4BPWTsO_6BE_M_uzmAnDee65_bgO1sBtN5htgE.png",
-                    "medium": "https://api-assets.clashofclans.com/badges/200/_IeBB4BPWTsO_6BE_M_uzmAnDee65_bgO1sBtN5htgE.png"
-                },
-                "clanLevel": 6,
-                "attacks": 12,
-                "stars": 25,
-                "destructionPercentage": 87.6,
-                "expEarned": 65
-            },
-            "opponent": {
-                "tag": "#J2Y9J2PQ",
-                "name": "NUPA 18 YEAR CC",
-                "badgeUrls": {
-                    "small": "https://api-assets.clashofclans.com/badges/70/fWervXVIi92UOVSbkcHIcOJBRx63pSr-ExM6M-ZqO54.png",
-                    "large": "https://api-assets.clashofclans.com/badges/512/fWervXVIi92UOVSbkcHIcOJBRx63pSr-ExM6M-ZqO54.png",
-                    "medium": "https://api-assets.clashofclans.com/badges/200/fWervXVIi92UOVSbkcHIcOJBRx63pSr-ExM6M-ZqO54.png"
-                },
-                "clanLevel": 4,
-                "stars": 29,
-                "destructionPercentage": 95.3
             }
         }
     ],
