@@ -15,7 +15,7 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/bNqs9QXo_BfJCWbwiavDUupXacx1TmXfC_lGbkDLtoA.png"
         },
         "clanLevel": 8,
-        "attacks": 11,
+        "attacks": 12,
         "stars": 30,
         "destructionPercentage": 100.0,
         "members": [
@@ -24,6 +24,16 @@
                 "name": "Xdok",
                 "townhallLevel": 9,
                 "mapPosition": 10,
+                "attacks": [
+                    {
+                        "attackerTag": "#GJQ0UV8UC",
+                        "defenderTag": "#R9V0J8VGV",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 23,
+                        "duration": 113
+                    }
+                ],
                 "opponentAttacks": 1,
                 "bestOpponentAttack": {
                     "attackerTag": "#R00RRYJG8",
@@ -461,7 +471,7 @@
                 "name": "maicraq13",
                 "townhallLevel": 10,
                 "mapPosition": 10,
-                "opponentAttacks": 1,
+                "opponentAttacks": 2,
                 "bestOpponentAttack": {
                     "attackerTag": "#R90PUUGV8",
                     "defenderTag": "#R9V0J8VGV",
