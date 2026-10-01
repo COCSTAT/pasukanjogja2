@@ -1,0 +1,179 @@
+{
+    "state": "preparation",
+    "teamSize": 10,
+    "attacksPerMember": 2,
+    "battleModifier": "none",
+    "preparationStartTime": "20261001T012210.000Z",
+    "startTime": "20261002T002210.000Z",
+    "endTime": "20261003T002210.000Z",
+    "clan": {
+        "tag": "#UGU0C8C",
+        "name": "Pasukan Jogja 2",
+        "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/bNqs9QXo_BfJCWbwiavDUupXacx1TmXfC_lGbkDLtoA.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/bNqs9QXo_BfJCWbwiavDUupXacx1TmXfC_lGbkDLtoA.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/bNqs9QXo_BfJCWbwiavDUupXacx1TmXfC_lGbkDLtoA.png"
+        },
+        "clanLevel": 8,
+        "attacks": 0,
+        "stars": 0,
+        "destructionPercentage": 0.0,
+        "members": [
+            {
+                "tag": "#GJQ0UV8UC",
+                "name": "Xdok",
+                "townhallLevel": 9,
+                "mapPosition": 10,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#R0Q8QVUUY",
+                "name": "gerandhongx",
+                "townhallLevel": 10,
+                "mapPosition": 8,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#2V29JQYYQ",
+                "name": "Donymahendra",
+                "townhallLevel": 12,
+                "mapPosition": 2,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#R90PUUGV8",
+                "name": "HAYABUSA_1987",
+                "townhallLevel": 11,
+                "mapPosition": 6,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#QVQYG8CPL",
+                "name": "ILHAM_87",
+                "townhallLevel": 12,
+                "mapPosition": 5,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#LLP0P9GV8",
+                "name": "brengsekai",
+                "townhallLevel": 13,
+                "mapPosition": 1,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#R9R08L2L8",
+                "name": "PG",
+                "townhallLevel": 10,
+                "mapPosition": 9,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#R9JCU8Q88",
+                "name": "azka",
+                "townhallLevel": 11,
+                "mapPosition": 7,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#L0ULV00Y2",
+                "name": "gewol",
+                "townhallLevel": 12,
+                "mapPosition": 4,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#CLPVU2CU",
+                "name": "yudZ",
+                "townhallLevel": 12,
+                "mapPosition": 3,
+                "opponentAttacks": 0
+            }
+        ]
+    },
+    "opponent": {
+        "tag": "#2C9GQPGRJ",
+        "name": "Dragon e_sport",
+        "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/8bnzfKnWCY82iupk9-XmH7V5lQ9COWfqzy4mjIFwX9c.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/8bnzfKnWCY82iupk9-XmH7V5lQ9COWfqzy4mjIFwX9c.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/8bnzfKnWCY82iupk9-XmH7V5lQ9COWfqzy4mjIFwX9c.png"
+        },
+        "clanLevel": 6,
+        "attacks": 0,
+        "stars": 0,
+        "destructionPercentage": 0.0,
+        "members": [
+            {
+                "tag": "#GJ09RRRGR",
+                "name": "dwiwoyy",
+                "townhallLevel": 9,
+                "mapPosition": 10,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#R0R9G0VVC",
+                "name": "shine",
+                "townhallLevel": 10,
+                "mapPosition": 8,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#R0G9L8J0P",
+                "name": "Lhyfin_",
+                "townhallLevel": 12,
+                "mapPosition": 6,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#QUQ9LCC20",
+                "name": "ixzyward",
+                "townhallLevel": 12,
+                "mapPosition": 1,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#GCQPQQLLL",
+                "name": "zama",
+                "townhallLevel": 10,
+                "mapPosition": 9,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#YYRYUJ8CC",
+                "name": "NIZAR JR",
+                "townhallLevel": 12,
+                "mapPosition": 4,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#R8QJJGU9R",
+                "name": "cadera;)",
+                "townhallLevel": 12,
+                "mapPosition": 3,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#Q9VU880R0",
+                "name": "duwex",
+                "townhallLevel": 12,
+                "mapPosition": 2,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#QCVPUQ0Y2",
+                "name": "seesss",
+                "townhallLevel": 11,
+                "mapPosition": 7,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#GUPJY2YVQ",
+                "name": "el_firaa\u2764\ufe0f",
+                "townhallLevel": 12,
+                "mapPosition": 5,
+                "opponentAttacks": 0
+            }
+        ]
+    }
+}
