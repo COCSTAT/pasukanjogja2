@@ -1,0 +1,179 @@
+{
+    "state": "ongoing",
+    "startTime": "20261002T070000.000Z",
+    "endTime": "20261005T070000.000Z",
+    "capitalTotalLoot": 9414,
+    "raidsCompleted": 0,
+    "totalAttacks": 11,
+    "enemyDistrictsDestroyed": 2,
+    "offensiveReward": 0,
+    "defensiveReward": 0,
+    "members": [
+        {
+            "tag": "#2V29JQYYQ",
+            "name": "Donymahendra",
+            "attacks": 5,
+            "attackLimit": 5,
+            "bonusAttackLimit": 0,
+            "capitalResourcesLooted": 2120
+        },
+        {
+            "tag": "#8VRUGQPC",
+            "name": "zai nab",
+            "attacks": 6,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 7294
+        }
+    ],
+    "attackLog": [
+        {
+            "defender": {
+                "tag": "#2LQ0L9LGR",
+                "name": "legends",
+                "level": 4,
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/MY3Js9uIgu6UVakzSzKt-vyQFaq528U_D8rgqt2d_yM.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/MY3Js9uIgu6UVakzSzKt-vyQFaq528U_D8rgqt2d_yM.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/MY3Js9uIgu6UVakzSzKt-vyQFaq528U_D8rgqt2d_yM.png"
+                }
+            },
+            "attackCount": 11,
+            "districtCount": 4,
+            "districtsDestroyed": 2,
+            "districts": [
+                {
+                    "id": 70000000,
+                    "name": "Capital Peak",
+                    "districtHallLevel": 4,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000001,
+                    "name": "Barbarian Camp",
+                    "districtHallLevel": 2,
+                    "destructionPercent": 65,
+                    "stars": 1,
+                    "attackCount": 5,
+                    "totalLooted": 2120,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#2V29JQYYQ",
+                                "name": "Donymahendra"
+                            },
+                            "destructionPercent": 65,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#2V29JQYYQ",
+                                "name": "Donymahendra"
+                            },
+                            "destructionPercent": 59,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#2V29JQYYQ",
+                                "name": "Donymahendra"
+                            },
+                            "destructionPercent": 57,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#2V29JQYYQ",
+                                "name": "Donymahendra"
+                            },
+                            "destructionPercent": 40,
+                            "stars": 0
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#2V29JQYYQ",
+                                "name": "Donymahendra"
+                            },
+                            "destructionPercent": 28,
+                            "stars": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 70000002,
+                    "name": "Wizard Valley",
+                    "districtHallLevel": 2,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 4,
+                    "totalLooted": 3805,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#8VRUGQPC",
+                                "name": "zai nab"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#8VRUGQPC",
+                                "name": "zai nab"
+                            },
+                            "destructionPercent": 85,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#8VRUGQPC",
+                                "name": "zai nab"
+                            },
+                            "destructionPercent": 44,
+                            "stars": 0
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#8VRUGQPC",
+                                "name": "zai nab"
+                            },
+                            "destructionPercent": 25,
+                            "stars": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 70000003,
+                    "name": "Balloon Lagoon",
+                    "districtHallLevel": 1,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 3489,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#8VRUGQPC",
+                                "name": "zai nab"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#8VRUGQPC",
+                                "name": "zai nab"
+                            },
+                            "destructionPercent": 50,
+                            "stars": 1
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "defenseLog": []
+}
