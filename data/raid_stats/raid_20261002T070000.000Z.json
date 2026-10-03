@@ -2,9 +2,9 @@
     "state": "ongoing",
     "startTime": "20261002T070000.000Z",
     "endTime": "20261005T070000.000Z",
-    "capitalTotalLoot": 31056,
+    "capitalTotalLoot": 32276,
     "raidsCompleted": 1,
-    "totalAttacks": 35,
+    "totalAttacks": 37,
     "enemyDistrictsDestroyed": 7,
     "offensiveReward": 0,
     "defensiveReward": 0,
@@ -36,10 +36,10 @@
         {
             "tag": "#R9UUVY9RR",
             "name": "ye",
-            "attacks": 4,
+            "attacks": 6,
             "attackLimit": 5,
             "bonusAttackLimit": 1,
-            "capitalResourcesLooted": 2153
+            "capitalResourcesLooted": 3373
         },
         {
             "tag": "#8VRUGQPC",
@@ -315,7 +315,7 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/YM9o6BsRdE5jyJCfuOsIj6SsIvrszd70gQQV7JTzl6E.png"
                 }
             },
-            "attackCount": 13,
+            "attackCount": 15,
             "districtCount": 4,
             "districtsDestroyed": 3,
             "districts": [
@@ -323,11 +323,27 @@
                     "id": 70000000,
                     "name": "Capital Peak",
                     "districtHallLevel": 4,
-                    "destructionPercent": 68,
-                    "stars": 1,
-                    "attackCount": 2,
-                    "totalLooted": 1740,
+                    "destructionPercent": 77,
+                    "stars": 2,
+                    "attackCount": 4,
+                    "totalLooted": 2960,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#R9UUVY9RR",
+                                "name": "ye"
+                            },
+                            "destructionPercent": 77,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#R9UUVY9RR",
+                                "name": "ye"
+                            },
+                            "destructionPercent": 73,
+                            "stars": 1
+                        },
                         {
                             "attacker": {
                                 "tag": "#CLPVU2CU",
