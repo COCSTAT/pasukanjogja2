@@ -1,5 +1,5 @@
 {
-    "state": "inWar",
+    "state": "warEnded",
     "teamSize": 10,
     "attacksPerMember": 2,
     "battleModifier": "none",
@@ -15,9 +15,9 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/bNqs9QXo_BfJCWbwiavDUupXacx1TmXfC_lGbkDLtoA.png"
         },
         "clanLevel": 8,
-        "attacks": 11,
-        "stars": 26,
-        "destructionPercentage": 87.8,
+        "attacks": 13,
+        "stars": 29,
+        "destructionPercentage": 97.8,
         "members": [
             {
                 "tag": "#GJQ0UV8UC",
@@ -32,6 +32,14 @@
                         "destructionPercentage": 100,
                         "order": 6,
                         "duration": 86
+                    },
+                    {
+                        "attackerTag": "#GJQ0UV8UC",
+                        "defenderTag": "#R8QJJGU9R",
+                        "stars": 0,
+                        "destructionPercentage": 40,
+                        "order": 24,
+                        "duration": 57
                     }
                 ],
                 "opponentAttacks": 1,
@@ -67,7 +75,15 @@
                         "duration": 100
                     }
                 ],
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#R0R9G0VVC",
+                    "defenderTag": "#R0Q8QVUUY",
+                    "stars": 1,
+                    "destructionPercentage": 68,
+                    "order": 20,
+                    "duration": 119
+                }
             },
             {
                 "tag": "#2V29JQYYQ",
@@ -142,7 +158,15 @@
                         "duration": 125
                     }
                 ],
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#GUPJY2YVQ",
+                    "defenderTag": "#QVQYG8CPL",
+                    "stars": 1,
+                    "destructionPercentage": 68,
+                    "order": 21,
+                    "duration": 75
+                }
             },
             {
                 "tag": "#LLP0P9GV8",
@@ -157,6 +181,14 @@
                         "destructionPercentage": 100,
                         "order": 13,
                         "duration": 125
+                    },
+                    {
+                        "attackerTag": "#LLP0P9GV8",
+                        "defenderTag": "#R0G9L8J0P",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 23,
+                        "duration": 108
                     }
                 ],
                 "opponentAttacks": 1,
@@ -174,7 +206,15 @@
                 "name": "PG",
                 "townhallLevel": 10,
                 "mapPosition": 9,
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#GUPJY2YVQ",
+                    "defenderTag": "#R9R08L2L8",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 22,
+                    "duration": 64
+                }
             },
             {
                 "tag": "#R9JCU8Q88",
@@ -260,9 +300,9 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/8bnzfKnWCY82iupk9-XmH7V5lQ9COWfqzy4mjIFwX9c.png"
         },
         "clanLevel": 6,
-        "attacks": 8,
-        "stars": 17,
-        "destructionPercentage": 62.6,
+        "attacks": 11,
+        "stars": 22,
+        "destructionPercentage": 86.2,
         "members": [
             {
                 "tag": "#GJ09RRRGR",
@@ -294,6 +334,16 @@
                 "name": "shine",
                 "townhallLevel": 10,
                 "mapPosition": 8,
+                "attacks": [
+                    {
+                        "attackerTag": "#R0R9G0VVC",
+                        "defenderTag": "#R0Q8QVUUY",
+                        "stars": 1,
+                        "destructionPercentage": 68,
+                        "order": 20,
+                        "duration": 119
+                    }
+                ],
                 "opponentAttacks": 1,
                 "bestOpponentAttack": {
                     "attackerTag": "#R0Q8QVUUY",
@@ -319,7 +369,15 @@
                         "duration": 177
                     }
                 ],
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#LLP0P9GV8",
+                    "defenderTag": "#R0G9L8J0P",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 23,
+                    "duration": 108
+                }
             },
             {
                 "tag": "#QUQ9LCC20",
@@ -401,7 +459,7 @@
                         "duration": 109
                     }
                 ],
-                "opponentAttacks": 1,
+                "opponentAttacks": 2,
                 "bestOpponentAttack": {
                     "attackerTag": "#CLPVU2CU",
                     "defenderTag": "#R8QJJGU9R",
@@ -474,6 +532,24 @@
                 "name": "el_firaa\u2764\ufe0f",
                 "townhallLevel": 12,
                 "mapPosition": 5,
+                "attacks": [
+                    {
+                        "attackerTag": "#GUPJY2YVQ",
+                        "defenderTag": "#QVQYG8CPL",
+                        "stars": 1,
+                        "destructionPercentage": 68,
+                        "order": 21,
+                        "duration": 75
+                    },
+                    {
+                        "attackerTag": "#GUPJY2YVQ",
+                        "defenderTag": "#R9R08L2L8",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 22,
+                        "duration": 64
+                    }
+                ],
                 "opponentAttacks": 1,
                 "bestOpponentAttack": {
                     "attackerTag": "#QVQYG8CPL",
