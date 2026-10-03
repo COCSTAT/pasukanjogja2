@@ -2,10 +2,10 @@
     "state": "ongoing",
     "startTime": "20261002T070000.000Z",
     "endTime": "20261005T070000.000Z",
-    "capitalTotalLoot": 35042,
+    "capitalTotalLoot": 40172,
     "raidsCompleted": 2,
-    "totalAttacks": 41,
-    "enemyDistrictsDestroyed": 8,
+    "totalAttacks": 46,
+    "enemyDistrictsDestroyed": 9,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
@@ -40,6 +40,14 @@
             "attackLimit": 5,
             "bonusAttackLimit": 0,
             "capitalResourcesLooted": 2120
+        },
+        {
+            "tag": "#R08UVU0VJ",
+            "name": "\u043c\u0430\u0433\u0436\u0430\u043d",
+            "attacks": 5,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 5130
         },
         {
             "tag": "#R9UUVY9RR",
@@ -536,9 +544,9 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/9hUrl1X0wuR5gcjAzufWjgX0WJiAJkkBALSj-06gPhA.png"
                 }
             },
-            "attackCount": 0,
+            "attackCount": 5,
             "districtCount": 4,
-            "districtsDestroyed": 0,
+            "districtsDestroyed": 1,
             "districts": [
                 {
                     "id": 70000000,
@@ -562,19 +570,63 @@
                     "id": 70000002,
                     "name": "Wizard Valley",
                     "districtHallLevel": 2,
-                    "destructionPercent": 0,
+                    "destructionPercent": 27,
                     "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "attackCount": 1,
+                    "totalLooted": 735,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#R08UVU0VJ",
+                                "name": "\u043c\u0430\u0433\u0436\u0430\u043d"
+                            },
+                            "destructionPercent": 27,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000003,
                     "name": "Balloon Lagoon",
                     "districtHallLevel": 1,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 4,
+                    "totalLooted": 4395,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#R08UVU0VJ",
+                                "name": "\u043c\u0430\u0433\u0436\u0430\u043d"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#R08UVU0VJ",
+                                "name": "\u043c\u0430\u0433\u0436\u0430\u043d"
+                            },
+                            "destructionPercent": 77,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#R08UVU0VJ",
+                                "name": "\u043c\u0430\u0433\u0436\u0430\u043d"
+                            },
+                            "destructionPercent": 52,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#R08UVU0VJ",
+                                "name": "\u043c\u0430\u0433\u0436\u0430\u043d"
+                            },
+                            "destructionPercent": 19,
+                            "stars": 0
+                        }
+                    ]
                 }
             ]
         }
