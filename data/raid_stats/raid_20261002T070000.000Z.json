@@ -2,10 +2,10 @@
     "state": "ongoing",
     "startTime": "20261002T070000.000Z",
     "endTime": "20261005T070000.000Z",
-    "capitalTotalLoot": 40172,
-    "raidsCompleted": 2,
-    "totalAttacks": 46,
-    "enemyDistrictsDestroyed": 9,
+    "capitalTotalLoot": 53225,
+    "raidsCompleted": 3,
+    "totalAttacks": 58,
+    "enemyDistrictsDestroyed": 12,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
@@ -44,10 +44,10 @@
         {
             "tag": "#R08UVU0VJ",
             "name": "\u043c\u0430\u0433\u0436\u0430\u043d",
-            "attacks": 5,
+            "attacks": 6,
             "attackLimit": 5,
             "bonusAttackLimit": 1,
-            "capitalResourcesLooted": 5130
+            "capitalResourcesLooted": 6405
         },
         {
             "tag": "#R9UUVY9RR",
@@ -66,12 +66,28 @@
             "capitalResourcesLooted": 7294
         },
         {
+            "tag": "#LLP0P9GV8",
+            "name": "brengsekai",
+            "attacks": 6,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 8208
+        },
+        {
             "tag": "#R9R08L2L8",
             "name": "PG",
             "attacks": 3,
             "attackLimit": 5,
             "bonusAttackLimit": 1,
             "capitalResourcesLooted": 4407
+        },
+        {
+            "tag": "#R9JCU8Q88",
+            "name": "azka",
+            "attacks": 5,
+            "attackLimit": 5,
+            "bonusAttackLimit": 0,
+            "capitalResourcesLooted": 3570
         },
         {
             "tag": "#CLPVU2CU",
@@ -544,37 +560,137 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/9hUrl1X0wuR5gcjAzufWjgX0WJiAJkkBALSj-06gPhA.png"
                 }
             },
-            "attackCount": 5,
+            "attackCount": 17,
             "districtCount": 4,
-            "districtsDestroyed": 1,
+            "districtsDestroyed": 4,
             "districts": [
                 {
                     "id": 70000000,
                     "name": "Capital Peak",
                     "districtHallLevel": 4,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 7,
+                    "totalLooted": 5725,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#R08UVU0VJ",
+                                "name": "\u043c\u0430\u0433\u0436\u0430\u043d"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#R9JCU8Q88",
+                                "name": "azka"
+                            },
+                            "destructionPercent": 90,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#R9JCU8Q88",
+                                "name": "azka"
+                            },
+                            "destructionPercent": 86,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#R9JCU8Q88",
+                                "name": "azka"
+                            },
+                            "destructionPercent": 80,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#R9JCU8Q88",
+                                "name": "azka"
+                            },
+                            "destructionPercent": 45,
+                            "stars": 0
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#R9JCU8Q88",
+                                "name": "azka"
+                            },
+                            "destructionPercent": 25,
+                            "stars": 0
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#LLP0P9GV8",
+                                "name": "brengsekai"
+                            },
+                            "destructionPercent": 16,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000001,
                     "name": "Barbarian Camp",
                     "districtHallLevel": 2,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 4319,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#LLP0P9GV8",
+                                "name": "brengsekai"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#LLP0P9GV8",
+                                "name": "brengsekai"
+                            },
+                            "destructionPercent": 80,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#LLP0P9GV8",
+                                "name": "brengsekai"
+                            },
+                            "destructionPercent": 34,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000002,
                     "name": "Wizard Valley",
                     "districtHallLevel": 2,
-                    "destructionPercent": 27,
-                    "stars": 0,
-                    "attackCount": 1,
-                    "totalLooted": 735,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 3744,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#LLP0P9GV8",
+                                "name": "brengsekai"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#LLP0P9GV8",
+                                "name": "brengsekai"
+                            },
+                            "destructionPercent": 59,
+                            "stars": 2
+                        },
                         {
                             "attacker": {
                                 "tag": "#R08UVU0VJ",
@@ -627,6 +743,59 @@
                             "stars": 0
                         }
                     ]
+                }
+            ]
+        },
+        {
+            "defender": {
+                "tag": "#2G2UGQQGP",
+                "name": "blowin-woods",
+                "level": 5,
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/BMhLmC8Gn66swYYbW0UXSZ41N99aOjkiz8wf_UKZemA.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/BMhLmC8Gn66swYYbW0UXSZ41N99aOjkiz8wf_UKZemA.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/BMhLmC8Gn66swYYbW0UXSZ41N99aOjkiz8wf_UKZemA.png"
+                }
+            },
+            "attackCount": 0,
+            "districtCount": 4,
+            "districtsDestroyed": 0,
+            "districts": [
+                {
+                    "id": 70000000,
+                    "name": "Capital Peak",
+                    "districtHallLevel": 4,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000001,
+                    "name": "Barbarian Camp",
+                    "districtHallLevel": 2,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000002,
+                    "name": "Wizard Valley",
+                    "districtHallLevel": 2,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000003,
+                    "name": "Balloon Lagoon",
+                    "districtHallLevel": 1,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
                 }
             ]
         }
