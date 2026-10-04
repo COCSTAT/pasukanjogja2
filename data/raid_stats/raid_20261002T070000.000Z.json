@@ -4,7 +4,7 @@
     "endTime": "20261005T070000.000Z",
     "capitalTotalLoot": 53225,
     "raidsCompleted": 3,
-    "totalAttacks": 58,
+    "totalAttacks": 60,
     "enemyDistrictsDestroyed": 12,
     "offensiveReward": 0,
     "defensiveReward": 0,
@@ -76,7 +76,7 @@
         {
             "tag": "#R9R08L2L8",
             "name": "PG",
-            "attacks": 3,
+            "attacks": 5,
             "attackLimit": 5,
             "bonusAttackLimit": 1,
             "capitalResourcesLooted": 4407
@@ -757,7 +757,7 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/BMhLmC8Gn66swYYbW0UXSZ41N99aOjkiz8wf_UKZemA.png"
                 }
             },
-            "attackCount": 0,
+            "attackCount": 2,
             "districtCount": 4,
             "districtsDestroyed": 0,
             "districts": [
@@ -794,8 +794,26 @@
                     "districtHallLevel": 1,
                     "destructionPercent": 0,
                     "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "attackCount": 2,
+                    "totalLooted": 0,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#R9R08L2L8",
+                                "name": "PG"
+                            },
+                            "destructionPercent": 0,
+                            "stars": 0
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#R9R08L2L8",
+                                "name": "PG"
+                            },
+                            "destructionPercent": 0,
+                            "stars": 0
+                        }
+                    ]
                 }
             ]
         }
