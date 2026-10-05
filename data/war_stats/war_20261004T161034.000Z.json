@@ -139,7 +139,15 @@
                         "duration": 128
                     }
                 ],
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#YJ0RPG2Q8",
+                    "defenderTag": "#R9JCU8Q88",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 7,
+                    "duration": 96
+                }
             }
         ]
     },
@@ -152,15 +160,25 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/9gu7ZfUljm0fX4EftXljEz2w3cvSqH68XTvkKSjjtqk.png"
         },
         "clanLevel": 22,
-        "attacks": 3,
-        "stars": 8,
-        "destructionPercentage": 29.0,
+        "attacks": 4,
+        "stars": 11,
+        "destructionPercentage": 39.0,
         "members": [
             {
                 "tag": "#YJ0RPG2Q8",
                 "name": "mathanmp",
                 "townhallLevel": 11,
                 "mapPosition": 10,
+                "attacks": [
+                    {
+                        "attackerTag": "#YJ0RPG2Q8",
+                        "defenderTag": "#R9JCU8Q88",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 7,
+                        "duration": 96
+                    }
+                ],
                 "opponentAttacks": 1,
                 "bestOpponentAttack": {
                     "attackerTag": "#R9JCU8Q88",
