@@ -79,3 +79,6 @@ All of it runs in CI on every push and PR.
 ---
 
 
+
+
+<!-- Security scan triggered at 2026-10-07 11:45:17 -->
