@@ -15,9 +15,9 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/bNqs9QXo_BfJCWbwiavDUupXacx1TmXfC_lGbkDLtoA.png"
         },
         "clanLevel": 8,
-        "attacks": 10,
-        "stars": 25,
-        "destructionPercentage": 81.8,
+        "attacks": 12,
+        "stars": 26,
+        "destructionPercentage": 86.6,
         "members": [
             {
                 "tag": "#800JJ0L28",
@@ -121,6 +121,14 @@
                         "destructionPercentage": 55,
                         "order": 9,
                         "duration": 60
+                    },
+                    {
+                        "attackerTag": "#QVQYG8CPL",
+                        "defenderTag": "#8PV8PQ290",
+                        "stars": 1,
+                        "destructionPercentage": 48,
+                        "order": 11,
+                        "duration": 78
                     }
                 ],
                 "opponentAttacks": 0
@@ -179,6 +187,16 @@
                 "name": "yudZ",
                 "townhallLevel": 12,
                 "mapPosition": 5,
+                "attacks": [
+                    {
+                        "attackerTag": "#CLPVU2CU",
+                        "defenderTag": "#8PV8PQ290",
+                        "stars": 0,
+                        "destructionPercentage": 42,
+                        "order": 12,
+                        "duration": 78
+                    }
+                ],
                 "opponentAttacks": 0
             }
         ]
@@ -246,7 +264,15 @@
                 "name": "tescor D'VIRUS",
                 "townhallLevel": 16,
                 "mapPosition": 1,
-                "opponentAttacks": 0
+                "opponentAttacks": 2,
+                "bestOpponentAttack": {
+                    "attackerTag": "#QVQYG8CPL",
+                    "defenderTag": "#8PV8PQ290",
+                    "stars": 1,
+                    "destructionPercentage": 48,
+                    "order": 11,
+                    "duration": 78
+                }
             },
             {
                 "tag": "#9LJGY9U2P",
