@@ -49,7 +49,15 @@
                         "duration": 132
                     }
                 ],
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#G2LCY2CY8",
+                    "defenderTag": "#R0Q8QVUUY",
+                    "stars": 2,
+                    "destructionPercentage": 80,
+                    "order": 17,
+                    "duration": 107
+                }
             },
             {
                 "tag": "#2V29JQYYQ",
@@ -74,7 +82,15 @@
                         "duration": 94
                     }
                 ],
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#9002GR0PR",
+                    "defenderTag": "#2V29JQYYQ",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 18,
+                    "duration": 139
+                }
             },
             {
                 "tag": "#R08UVU0VJ",
@@ -114,7 +130,15 @@
                         "duration": 40
                     }
                 ],
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#8RPJVR220",
+                    "defenderTag": "#R90PUUGV8",
+                    "stars": 2,
+                    "destructionPercentage": 80,
+                    "order": 19,
+                    "duration": 100
+                }
             },
             {
                 "tag": "#QVQYG8CPL",
@@ -139,7 +163,15 @@
                         "duration": 78
                     }
                 ],
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#9YPP8UU2R",
+                    "defenderTag": "#QVQYG8CPL",
+                    "stars": 1,
+                    "destructionPercentage": 52,
+                    "order": 16,
+                    "duration": 71
+                }
             },
             {
                 "tag": "#LLP0P9GV8",
@@ -234,15 +266,25 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/NDurF2orUGggbgZFegDxn1E_wNWH9dypXLqVeOi2TS4.png"
         },
         "clanLevel": 10,
-        "attacks": 2,
-        "stars": 6,
-        "destructionPercentage": 20.0,
+        "attacks": 6,
+        "stars": 14,
+        "destructionPercentage": 51.2,
         "members": [
             {
                 "tag": "#9YPP8UU2R",
                 "name": "\u00a4Tatang-Zatok\u00a4",
                 "townhallLevel": 12,
                 "mapPosition": 6,
+                "attacks": [
+                    {
+                        "attackerTag": "#9YPP8UU2R",
+                        "defenderTag": "#QVQYG8CPL",
+                        "stars": 1,
+                        "destructionPercentage": 52,
+                        "order": 16,
+                        "duration": 71
+                    }
+                ],
                 "opponentAttacks": 1,
                 "bestOpponentAttack": {
                     "attackerTag": "#R90PUUGV8",
@@ -258,6 +300,16 @@
                 "name": "\u265a\u265aS\u265a\u265aH\u265a\u265aY\u265a\u265a",
                 "townhallLevel": 13,
                 "mapPosition": 4,
+                "attacks": [
+                    {
+                        "attackerTag": "#9002GR0PR",
+                        "defenderTag": "#2V29JQYYQ",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 18,
+                        "duration": 139
+                    }
+                ],
                 "opponentAttacks": 1,
                 "bestOpponentAttack": {
                     "attackerTag": "#2V29JQYYQ",
@@ -383,6 +435,16 @@
                 "name": "\u265a\u265a\u265aSC2\u20e30\u20e3\u265a\u265a\u265a",
                 "townhallLevel": 12,
                 "mapPosition": 7,
+                "attacks": [
+                    {
+                        "attackerTag": "#8RPJVR220",
+                        "defenderTag": "#R90PUUGV8",
+                        "stars": 2,
+                        "destructionPercentage": 80,
+                        "order": 19,
+                        "duration": 100
+                    }
+                ],
                 "opponentAttacks": 2,
                 "bestOpponentAttack": {
                     "attackerTag": "#R90PUUGV8",
@@ -398,6 +460,16 @@
                 "name": "SunGodNika",
                 "townhallLevel": 10,
                 "mapPosition": 9,
+                "attacks": [
+                    {
+                        "attackerTag": "#G2LCY2CY8",
+                        "defenderTag": "#R0Q8QVUUY",
+                        "stars": 2,
+                        "destructionPercentage": 80,
+                        "order": 17,
+                        "duration": 107
+                    }
+                ],
                 "opponentAttacks": 1,
                 "bestOpponentAttack": {
                     "attackerTag": "#R9JCU8Q88",
