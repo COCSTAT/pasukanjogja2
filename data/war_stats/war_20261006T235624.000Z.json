@@ -15,9 +15,9 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/bNqs9QXo_BfJCWbwiavDUupXacx1TmXfC_lGbkDLtoA.png"
         },
         "clanLevel": 8,
-        "attacks": 12,
+        "attacks": 13,
         "stars": 26,
-        "destructionPercentage": 86.6,
+        "destructionPercentage": 88.0,
         "members": [
             {
                 "tag": "#800JJ0L28",
@@ -81,7 +81,15 @@
                 "name": "\u043c\u0430\u0433\u0436\u0430\u043d",
                 "townhallLevel": 13,
                 "mapPosition": 3,
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#GG0LV8GUU",
+                    "defenderTag": "#R08UVU0VJ",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 14,
+                    "duration": 116
+                }
             },
             {
                 "tag": "#R90PUUGV8",
@@ -148,7 +156,15 @@
                         "duration": 126
                     }
                 ],
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#GL8VJLG9P",
+                    "defenderTag": "#LLP0P9GV8",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 15,
+                    "duration": 145
+                }
             },
             {
                 "tag": "#R9JCU8Q88",
@@ -195,6 +211,14 @@
                         "destructionPercentage": 42,
                         "order": 12,
                         "duration": 78
+                    },
+                    {
+                        "attackerTag": "#CLPVU2CU",
+                        "defenderTag": "#GG0LV8GUU",
+                        "stars": 2,
+                        "destructionPercentage": 69,
+                        "order": 13,
+                        "duration": 102
                     }
                 ],
                 "opponentAttacks": 0
@@ -210,9 +234,9 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/NDurF2orUGggbgZFegDxn1E_wNWH9dypXLqVeOi2TS4.png"
         },
         "clanLevel": 10,
-        "attacks": 0,
-        "stars": 0,
-        "destructionPercentage": 0.0,
+        "attacks": 2,
+        "stars": 6,
+        "destructionPercentage": 20.0,
         "members": [
             {
                 "tag": "#9YPP8UU2R",
@@ -249,6 +273,16 @@
                 "name": "lovely",
                 "townhallLevel": 14,
                 "mapPosition": 2,
+                "attacks": [
+                    {
+                        "attackerTag": "#GL8VJLG9P",
+                        "defenderTag": "#LLP0P9GV8",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 15,
+                        "duration": 145
+                    }
+                ],
                 "opponentAttacks": 1,
                 "bestOpponentAttack": {
                     "attackerTag": "#LLP0P9GV8",
@@ -309,14 +343,24 @@
                 "name": "prince gael",
                 "townhallLevel": 13,
                 "mapPosition": 3,
-                "opponentAttacks": 1,
+                "attacks": [
+                    {
+                        "attackerTag": "#GG0LV8GUU",
+                        "defenderTag": "#R08UVU0VJ",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 14,
+                        "duration": 116
+                    }
+                ],
+                "opponentAttacks": 2,
                 "bestOpponentAttack": {
-                    "attackerTag": "#QVQYG8CPL",
+                    "attackerTag": "#CLPVU2CU",
                     "defenderTag": "#GG0LV8GUU",
                     "stars": 2,
-                    "destructionPercentage": 55,
-                    "order": 9,
-                    "duration": 60
+                    "destructionPercentage": 69,
+                    "order": 13,
+                    "duration": 102
                 }
             },
             {
