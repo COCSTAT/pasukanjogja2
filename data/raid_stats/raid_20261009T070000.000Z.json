@@ -2,13 +2,21 @@
     "state": "ongoing",
     "startTime": "20261009T070000.000Z",
     "endTime": "20261012T070000.000Z",
-    "capitalTotalLoot": 31680,
-    "raidsCompleted": 1,
-    "totalAttacks": 24,
-    "enemyDistrictsDestroyed": 7,
+    "capitalTotalLoot": 38841,
+    "raidsCompleted": 2,
+    "totalAttacks": 30,
+    "enemyDistrictsDestroyed": 8,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
+        {
+            "tag": "#R0Q8QVUUY",
+            "name": "gerandhongx",
+            "attacks": 6,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 7161
+        },
         {
             "tag": "#R08UVU0VJ",
             "name": "\u043c\u0430\u0433\u0436\u0430\u043d",
@@ -227,18 +235,60 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/1UQv2rhwH8ocznhKEc-XQlAM5nKr2AhVM4Gkvj1K5dY.png"
                 }
             },
-            "attackCount": 10,
+            "attackCount": 15,
             "districtCount": 4,
-            "districtsDestroyed": 3,
+            "districtsDestroyed": 4,
             "districts": [
                 {
                     "id": 70000000,
                     "name": "Capital Peak",
                     "districtHallLevel": 4,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 5,
+                    "totalLooted": 5416,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#R0Q8QVUUY",
+                                "name": "gerandhongx"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#R0Q8QVUUY",
+                                "name": "gerandhongx"
+                            },
+                            "destructionPercent": 76,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#R0Q8QVUUY",
+                                "name": "gerandhongx"
+                            },
+                            "destructionPercent": 52,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#R0Q8QVUUY",
+                                "name": "gerandhongx"
+                            },
+                            "destructionPercent": 47,
+                            "stars": 0
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#R0Q8QVUUY",
+                                "name": "gerandhongx"
+                            },
+                            "destructionPercent": 42,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000001,
@@ -350,6 +400,69 @@
                             },
                             "destructionPercent": 26,
                             "stars": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "defender": {
+                "tag": "#2RJ9V0UGC",
+                "name": "TUSSI PUSSi",
+                "level": 5,
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/YM9o6BsRdE5jyJCfuOsIj6SsIvrszd70gQQV7JTzl6E.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/YM9o6BsRdE5jyJCfuOsIj6SsIvrszd70gQQV7JTzl6E.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/YM9o6BsRdE5jyJCfuOsIj6SsIvrszd70gQQV7JTzl6E.png"
+                }
+            },
+            "attackCount": 1,
+            "districtCount": 4,
+            "districtsDestroyed": 0,
+            "districts": [
+                {
+                    "id": 70000000,
+                    "name": "Capital Peak",
+                    "districtHallLevel": 4,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000001,
+                    "name": "Barbarian Camp",
+                    "districtHallLevel": 2,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000002,
+                    "name": "Wizard Valley",
+                    "districtHallLevel": 2,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000003,
+                    "name": "Balloon Lagoon",
+                    "districtHallLevel": 1,
+                    "destructionPercent": 52,
+                    "stars": 1,
+                    "attackCount": 1,
+                    "totalLooted": 1745,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#R0Q8QVUUY",
+                                "name": "gerandhongx"
+                            },
+                            "destructionPercent": 52,
+                            "stars": 1
                         }
                     ]
                 }
