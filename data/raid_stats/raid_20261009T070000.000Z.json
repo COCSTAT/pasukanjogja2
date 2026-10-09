@@ -1,0 +1,103 @@
+{
+    "state": "ongoing",
+    "startTime": "20261009T070000.000Z",
+    "endTime": "20261012T070000.000Z",
+    "capitalTotalLoot": 4635,
+    "raidsCompleted": 0,
+    "totalAttacks": 3,
+    "enemyDistrictsDestroyed": 1,
+    "offensiveReward": 0,
+    "defensiveReward": 0,
+    "members": [
+        {
+            "tag": "#8VRUGQPC",
+            "name": "zai nab",
+            "attacks": 3,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 4635
+        }
+    ],
+    "attackLog": [
+        {
+            "defender": {
+                "tag": "#2GV2CRCCR",
+                "name": "Bagogo",
+                "level": 4,
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/pe641EBrEBuiT8qG6NRcsKnAKt5sG5to-zJ1_qsQ1uc.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/pe641EBrEBuiT8qG6NRcsKnAKt5sG5to-zJ1_qsQ1uc.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/pe641EBrEBuiT8qG6NRcsKnAKt5sG5to-zJ1_qsQ1uc.png"
+                }
+            },
+            "attackCount": 3,
+            "districtCount": 4,
+            "districtsDestroyed": 1,
+            "districts": [
+                {
+                    "id": 70000000,
+                    "name": "Capital Peak",
+                    "districtHallLevel": 4,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000001,
+                    "name": "Barbarian Camp",
+                    "districtHallLevel": 2,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000002,
+                    "name": "Wizard Valley",
+                    "districtHallLevel": 2,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000003,
+                    "name": "Balloon Lagoon",
+                    "districtHallLevel": 1,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 4635,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#8VRUGQPC",
+                                "name": "zai nab"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#8VRUGQPC",
+                                "name": "zai nab"
+                            },
+                            "destructionPercent": 89,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#8VRUGQPC",
+                                "name": "zai nab"
+                            },
+                            "destructionPercent": 40,
+                            "stars": 0
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "defenseLog": []
+}
