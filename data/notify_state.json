@@ -72,6 +72,11 @@
             "clanStars": 29,
             "opponentStars": 6,
             "state": "warEnded"
+        },
+        "20261011T025529.000Z": {
+            "clanStars": 0,
+            "opponentStars": 0,
+            "state": "preparation"
         }
     }
 }
