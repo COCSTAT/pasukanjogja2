@@ -71,7 +71,7 @@
         "20261009T005242.000Z": {
             "clanStars": 29,
             "opponentStars": 6,
-            "state": "inWar"
+            "state": "warEnded"
         }
     }
 }
