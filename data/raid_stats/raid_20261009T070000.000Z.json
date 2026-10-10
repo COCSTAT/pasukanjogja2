@@ -2,10 +2,10 @@
     "state": "ongoing",
     "startTime": "20261009T070000.000Z",
     "endTime": "20261012T070000.000Z",
-    "capitalTotalLoot": 38841,
+    "capitalTotalLoot": 48058,
     "raidsCompleted": 2,
-    "totalAttacks": 30,
-    "enemyDistrictsDestroyed": 8,
+    "totalAttacks": 36,
+    "enemyDistrictsDestroyed": 10,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
@@ -40,6 +40,14 @@
             "attackLimit": 5,
             "bonusAttackLimit": 1,
             "capitalResourcesLooted": 9190
+        },
+        {
+            "tag": "#LLP0P9GV8",
+            "name": "brengsekai",
+            "attacks": 6,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 9217
         },
         {
             "tag": "#R9JCU8Q88",
@@ -416,9 +424,9 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/YM9o6BsRdE5jyJCfuOsIj6SsIvrszd70gQQV7JTzl6E.png"
                 }
             },
-            "attackCount": 1,
+            "attackCount": 7,
             "districtCount": 4,
-            "districtsDestroyed": 0,
+            "districtsDestroyed": 2,
             "districts": [
                 {
                     "id": 70000000,
@@ -433,29 +441,81 @@
                     "id": 70000001,
                     "name": "Barbarian Camp",
                     "districtHallLevel": 2,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 73,
+                    "stars": 2,
+                    "attackCount": 2,
+                    "totalLooted": 2805,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#LLP0P9GV8",
+                                "name": "brengsekai"
+                            },
+                            "destructionPercent": 73,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#LLP0P9GV8",
+                                "name": "brengsekai"
+                            },
+                            "destructionPercent": 25,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000002,
                     "name": "Wizard Valley",
                     "districtHallLevel": 2,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 3591,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#LLP0P9GV8",
+                                "name": "brengsekai"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#LLP0P9GV8",
+                                "name": "brengsekai"
+                            },
+                            "destructionPercent": 63,
+                            "stars": 2
+                        }
+                    ]
                 },
                 {
                     "id": 70000003,
                     "name": "Balloon Lagoon",
                     "districtHallLevel": 1,
-                    "destructionPercent": 52,
-                    "stars": 1,
-                    "attackCount": 1,
-                    "totalLooted": 1745,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 4566,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#LLP0P9GV8",
+                                "name": "brengsekai"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#LLP0P9GV8",
+                                "name": "brengsekai"
+                            },
+                            "destructionPercent": 87,
+                            "stars": 2
+                        },
                         {
                             "attacker": {
                                 "tag": "#R0Q8QVUUY",
