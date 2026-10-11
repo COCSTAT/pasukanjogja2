@@ -15,9 +15,9 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/bNqs9QXo_BfJCWbwiavDUupXacx1TmXfC_lGbkDLtoA.png"
         },
         "clanLevel": 8,
-        "attacks": 6,
-        "stars": 14,
-        "destructionPercentage": 53.5,
+        "attacks": 9,
+        "stars": 19,
+        "destructionPercentage": 69.7,
         "members": [
             {
                 "tag": "#GJQ0UV8UC",
@@ -32,9 +32,25 @@
                         "destructionPercentage": 100,
                         "order": 1,
                         "duration": 52
+                    },
+                    {
+                        "attackerTag": "#GJQ0UV8UC",
+                        "defenderTag": "#GJGRYG0Y8",
+                        "stars": 0,
+                        "destructionPercentage": 45,
+                        "order": 11,
+                        "duration": 65
                     }
                 ],
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#GUGPPJVPP",
+                    "defenderTag": "#GJQ0UV8UC",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 12,
+                    "duration": 109
+                }
             },
             {
                 "tag": "#R0Q8QVUUY",
@@ -48,7 +64,15 @@
                 "name": "Donymahendra",
                 "townhallLevel": 12,
                 "mapPosition": 4,
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#GRUQG8QPJ",
+                    "defenderTag": "#2V29JQYYQ",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 10,
+                    "duration": 112
+                }
             },
             {
                 "tag": "#R08UVU0VJ",
@@ -65,7 +89,15 @@
                         "duration": 100
                     }
                 ],
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#QPJVUPJ98",
+                    "defenderTag": "#R08UVU0VJ",
+                    "stars": 2,
+                    "destructionPercentage": 90,
+                    "order": 9,
+                    "duration": 87
+                }
             },
             {
                 "tag": "#R90PUUGV8",
@@ -79,7 +111,15 @@
                 "name": "ILHAM_87",
                 "townhallLevel": 12,
                 "mapPosition": 5,
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#GRUQG8QPJ",
+                    "defenderTag": "#QVQYG8CPL",
+                    "stars": 2,
+                    "destructionPercentage": 95,
+                    "order": 13,
+                    "duration": 126
+                }
             },
             {
                 "tag": "#R9UUVY9RR",
@@ -94,6 +134,14 @@
                         "destructionPercentage": 48,
                         "order": 6,
                         "duration": 84
+                    },
+                    {
+                        "attackerTag": "#R9UUVY9RR",
+                        "defenderTag": "#GUGPPJVPP",
+                        "stars": 2,
+                        "destructionPercentage": 62,
+                        "order": 8,
+                        "duration": 152
                     }
                 ],
                 "opponentAttacks": 0
@@ -128,6 +176,16 @@
                 "name": "brengsekai",
                 "townhallLevel": 13,
                 "mapPosition": 1,
+                "attacks": [
+                    {
+                        "attackerTag": "#LLP0P9GV8",
+                        "defenderTag": "#8LVCCY2QP",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 14,
+                        "duration": 159
+                    }
+                ],
                 "opponentAttacks": 0
             },
             {
@@ -166,16 +224,34 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/PTSqKfF7mCb-9FC-YNdHNRo0x-NWGHrKl8WfpJE_MOw.png"
         },
         "clanLevel": 6,
-        "attacks": 1,
-        "stars": 3,
-        "destructionPercentage": 10.0,
+        "attacks": 5,
+        "stars": 13,
+        "destructionPercentage": 48.5,
         "members": [
             {
                 "tag": "#GUGPPJVPP",
                 "name": "Nezuko Smoshi",
                 "townhallLevel": 11,
                 "mapPosition": 6,
-                "opponentAttacks": 0
+                "attacks": [
+                    {
+                        "attackerTag": "#GUGPPJVPP",
+                        "defenderTag": "#GJQ0UV8UC",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 12,
+                        "duration": 109
+                    }
+                ],
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#R9UUVY9RR",
+                    "defenderTag": "#GUGPPJVPP",
+                    "stars": 2,
+                    "destructionPercentage": 62,
+                    "order": 8,
+                    "duration": 152
+                }
             },
             {
                 "tag": "#R0VCLJVVC",
@@ -197,6 +273,24 @@
                 "name": "99",
                 "townhallLevel": 13,
                 "mapPosition": 4,
+                "attacks": [
+                    {
+                        "attackerTag": "#GRUQG8QPJ",
+                        "defenderTag": "#2V29JQYYQ",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 10,
+                        "duration": 112
+                    },
+                    {
+                        "attackerTag": "#GRUQG8QPJ",
+                        "defenderTag": "#QVQYG8CPL",
+                        "stars": 2,
+                        "destructionPercentage": 95,
+                        "order": 13,
+                        "duration": 126
+                    }
+                ],
                 "opponentAttacks": 1,
                 "bestOpponentAttack": {
                     "attackerTag": "#R08UVU0VJ",
@@ -237,7 +331,7 @@
                 "name": "rezzneedmoney",
                 "townhallLevel": 11,
                 "mapPosition": 7,
-                "opponentAttacks": 1,
+                "opponentAttacks": 2,
                 "bestOpponentAttack": {
                     "attackerTag": "#R9UUVY9RR",
                     "defenderTag": "#GJGRYG0Y8",
@@ -289,13 +383,31 @@
                 "name": "lancii",
                 "townhallLevel": 13,
                 "mapPosition": 2,
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#LLP0P9GV8",
+                    "defenderTag": "#8LVCCY2QP",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 14,
+                    "duration": 159
+                }
             },
             {
                 "tag": "#QPJVUPJ98",
                 "name": "Frdnan",
                 "townhallLevel": 13,
                 "mapPosition": 3,
+                "attacks": [
+                    {
+                        "attackerTag": "#QPJVUPJ98",
+                        "defenderTag": "#R08UVU0VJ",
+                        "stars": 2,
+                        "destructionPercentage": 90,
+                        "order": 9,
+                        "duration": 87
+                    }
+                ],
                 "opponentAttacks": 0
             }
         ]
