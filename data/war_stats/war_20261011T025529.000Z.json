@@ -57,7 +57,15 @@
                 "name": "gerandhongx",
                 "townhallLevel": 10,
                 "mapPosition": 9,
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#8LVCCY2QP",
+                    "defenderTag": "#R0Q8QVUUY",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 21,
+                    "duration": 73
+                }
             },
             {
                 "tag": "#2V29JQYYQ",
@@ -119,7 +127,7 @@
                 "name": "ILHAM_87",
                 "townhallLevel": 12,
                 "mapPosition": 5,
-                "opponentAttacks": 2,
+                "opponentAttacks": 3,
                 "bestOpponentAttack": {
                     "attackerTag": "#GRUQG8QPJ",
                     "defenderTag": "#QVQYG8CPL",
@@ -256,9 +264,9 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/PTSqKfF7mCb-9FC-YNdHNRo0x-NWGHrKl8WfpJE_MOw.png"
         },
         "clanLevel": 6,
-        "attacks": 8,
-        "stars": 18,
-        "destructionPercentage": 68.1,
+        "attacks": 10,
+        "stars": 21,
+        "destructionPercentage": 78.1,
         "members": [
             {
                 "tag": "#GUGPPJVPP",
@@ -449,6 +457,24 @@
                 "name": "lancii",
                 "townhallLevel": 13,
                 "mapPosition": 2,
+                "attacks": [
+                    {
+                        "attackerTag": "#8LVCCY2QP",
+                        "defenderTag": "#QVQYG8CPL",
+                        "stars": 1,
+                        "destructionPercentage": 89,
+                        "order": 20,
+                        "duration": 106
+                    },
+                    {
+                        "attackerTag": "#8LVCCY2QP",
+                        "defenderTag": "#R0Q8QVUUY",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 21,
+                        "duration": 73
+                    }
+                ],
                 "opponentAttacks": 1,
                 "bestOpponentAttack": {
                     "attackerTag": "#LLP0P9GV8",
