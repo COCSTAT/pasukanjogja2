@@ -529,5 +529,69 @@
             ]
         }
     ],
-    "defenseLog": []
+    "defenseLog": [
+        {
+            "attacker": {
+                "tag": "#2CV8U9VUP",
+                "name": "Goy Power",
+                "level": 5,
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/8Xv5apAHw4W0xYY_ZDr4fX8WiHEGqM00cYBeDxLgLHI.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/8Xv5apAHw4W0xYY_ZDr4fX8WiHEGqM00cYBeDxLgLHI.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/8Xv5apAHw4W0xYY_ZDr4fX8WiHEGqM00cYBeDxLgLHI.png"
+                }
+            },
+            "attackCount": 1,
+            "districtCount": 4,
+            "districtsDestroyed": 0,
+            "districts": [
+                {
+                    "id": 70000000,
+                    "name": "Capital Peak",
+                    "districtHallLevel": 4,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000001,
+                    "name": "Barbarian Camp",
+                    "districtHallLevel": 2,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000002,
+                    "name": "Wizard Valley",
+                    "districtHallLevel": 2,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000003,
+                    "name": "Balloon Lagoon",
+                    "districtHallLevel": 1,
+                    "destructionPercent": 35,
+                    "stars": 1,
+                    "attackCount": 1,
+                    "totalLooted": 1230,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#L88UJ20VQ",
+                                "name": "Zucchini"
+                            },
+                            "destructionPercent": 35,
+                            "stars": 1
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }
