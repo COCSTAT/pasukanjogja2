@@ -2,13 +2,21 @@
     "state": "ongoing",
     "startTime": "20261009T070000.000Z",
     "endTime": "20261012T070000.000Z",
-    "capitalTotalLoot": 48058,
-    "raidsCompleted": 2,
-    "totalAttacks": 36,
-    "enemyDistrictsDestroyed": 10,
+    "capitalTotalLoot": 61756,
+    "raidsCompleted": 3,
+    "totalAttacks": 48,
+    "enemyDistrictsDestroyed": 13,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
+        {
+            "tag": "#GJQ0UV8UC",
+            "name": "Xdok",
+            "attacks": 6,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 7333
+        },
         {
             "tag": "#R0Q8QVUUY",
             "name": "gerandhongx",
@@ -56,6 +64,14 @@
             "attackLimit": 5,
             "bonusAttackLimit": 1,
             "capitalResourcesLooted": 6005
+        },
+        {
+            "tag": "#CLPVU2CU",
+            "name": "yudZ",
+            "attacks": 6,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 6365
         }
     ],
     "attackLog": [
@@ -424,28 +440,86 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/YM9o6BsRdE5jyJCfuOsIj6SsIvrszd70gQQV7JTzl6E.png"
                 }
             },
-            "attackCount": 7,
+            "attackCount": 14,
             "districtCount": 4,
-            "districtsDestroyed": 2,
+            "districtsDestroyed": 4,
             "districts": [
                 {
                     "id": 70000000,
                     "name": "Capital Peak",
                     "districtHallLevel": 4,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 6,
+                    "totalLooted": 5643,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#GJQ0UV8UC",
+                                "name": "Xdok"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#CLPVU2CU",
+                                "name": "yudZ"
+                            },
+                            "destructionPercent": 95,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#CLPVU2CU",
+                                "name": "yudZ"
+                            },
+                            "destructionPercent": 84,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#CLPVU2CU",
+                                "name": "yudZ"
+                            },
+                            "destructionPercent": 78,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#CLPVU2CU",
+                                "name": "yudZ"
+                            },
+                            "destructionPercent": 54,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#CLPVU2CU",
+                                "name": "yudZ"
+                            },
+                            "destructionPercent": 37,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000001,
                     "name": "Barbarian Camp",
                     "districtHallLevel": 2,
-                    "destructionPercent": 73,
-                    "stars": 2,
-                    "attackCount": 2,
-                    "totalLooted": 2805,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 4250,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#CLPVU2CU",
+                                "name": "yudZ"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
                         {
                             "attacker": {
                                 "tag": "#LLP0P9GV8",
@@ -527,6 +601,103 @@
                     ]
                 }
             ]
+        },
+        {
+            "defender": {
+                "tag": "#229L802Q",
+                "name": "Martianz Gaming",
+                "level": 14,
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/BK_etU_cchzutzeM98RKrNdy27lBx5mkIqKT_v6bjNI.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/BK_etU_cchzutzeM98RKrNdy27lBx5mkIqKT_v6bjNI.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/BK_etU_cchzutzeM98RKrNdy27lBx5mkIqKT_v6bjNI.png"
+                }
+            },
+            "attackCount": 5,
+            "districtCount": 4,
+            "districtsDestroyed": 1,
+            "districts": [
+                {
+                    "id": 70000000,
+                    "name": "Capital Peak",
+                    "districtHallLevel": 4,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000001,
+                    "name": "Barbarian Camp",
+                    "districtHallLevel": 2,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000002,
+                    "name": "Wizard Valley",
+                    "districtHallLevel": 2,
+                    "destructionPercent": 64,
+                    "stars": 1,
+                    "attackCount": 2,
+                    "totalLooted": 2245,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#GJQ0UV8UC",
+                                "name": "Xdok"
+                            },
+                            "destructionPercent": 64,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#GJQ0UV8UC",
+                                "name": "Xdok"
+                            },
+                            "destructionPercent": 29,
+                            "stars": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 70000003,
+                    "name": "Balloon Lagoon",
+                    "districtHallLevel": 1,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 4365,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#GJQ0UV8UC",
+                                "name": "Xdok"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#GJQ0UV8UC",
+                                "name": "Xdok"
+                            },
+                            "destructionPercent": 63,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#GJQ0UV8UC",
+                                "name": "Xdok"
+                            },
+                            "destructionPercent": 42,
+                            "stars": 1
+                        }
+                    ]
+                }
+            ]
         }
     ],
     "defenseLog": [
@@ -541,7 +712,7 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/8Xv5apAHw4W0xYY_ZDr4fX8WiHEGqM00cYBeDxLgLHI.png"
                 }
             },
-            "attackCount": 1,
+            "attackCount": 2,
             "districtCount": 4,
             "districtsDestroyed": 0,
             "districts": [
@@ -576,11 +747,19 @@
                     "id": 70000003,
                     "name": "Balloon Lagoon",
                     "districtHallLevel": 1,
-                    "destructionPercent": 35,
-                    "stars": 1,
-                    "attackCount": 1,
-                    "totalLooted": 1230,
+                    "destructionPercent": 75,
+                    "stars": 2,
+                    "attackCount": 2,
+                    "totalLooted": 2950,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#U8YLC9UP",
+                                "name": "wetleg"
+                            },
+                            "destructionPercent": 75,
+                            "stars": 2
+                        },
                         {
                             "attacker": {
                                 "tag": "#L88UJ20VQ",
