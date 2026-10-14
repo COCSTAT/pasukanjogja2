@@ -84,9 +84,9 @@
             "state": "preparation"
         },
         "20261014T052618.000Z": {
-            "clanStars": 0,
-            "opponentStars": 0,
-            "state": "preparation"
+            "clanStars": 15,
+            "opponentStars": 13,
+            "state": "inWar"
         }
     }
 }
