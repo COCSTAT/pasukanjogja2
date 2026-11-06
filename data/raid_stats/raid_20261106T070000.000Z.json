@@ -1,0 +1,346 @@
+{
+    "state": "ongoing",
+    "startTime": "20261106T070000.000Z",
+    "endTime": "20261109T070000.000Z",
+    "capitalTotalLoot": 21182,
+    "raidsCompleted": 1,
+    "totalAttacks": 16,
+    "enemyDistrictsDestroyed": 4,
+    "offensiveReward": 0,
+    "defensiveReward": 0,
+    "members": [
+        {
+            "tag": "#GJYVUL0L2",
+            "name": "sapimen",
+            "attacks": 1,
+            "attackLimit": 5,
+            "bonusAttackLimit": 0,
+            "capitalResourcesLooted": 1400
+        },
+        {
+            "tag": "#R9UUVY9RR",
+            "name": "ye",
+            "attacks": 6,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 6874
+        },
+        {
+            "tag": "#R9R08L2L8",
+            "name": "PG",
+            "attacks": 6,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 9818
+        },
+        {
+            "tag": "#R9JCU8Q88",
+            "name": "azka",
+            "attacks": 3,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 3090
+        }
+    ],
+    "attackLog": [
+        {
+            "defender": {
+                "tag": "#RRVV222",
+                "name": "tbyrd",
+                "level": 2,
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/fIb7Adsyo37Yaw6NDdzQNBdPzfiSzWtmeRAFr5qQbV4.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/fIb7Adsyo37Yaw6NDdzQNBdPzfiSzWtmeRAFr5qQbV4.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/fIb7Adsyo37Yaw6NDdzQNBdPzfiSzWtmeRAFr5qQbV4.png"
+                }
+            },
+            "attackCount": 15,
+            "districtCount": 4,
+            "districtsDestroyed": 4,
+            "districts": [
+                {
+                    "id": 70000000,
+                    "name": "Capital Peak",
+                    "districtHallLevel": 4,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 4,
+                    "totalLooted": 5698,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#R9R08L2L8",
+                                "name": "PG"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#R9R08L2L8",
+                                "name": "PG"
+                            },
+                            "destructionPercent": 95,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#R9R08L2L8",
+                                "name": "PG"
+                            },
+                            "destructionPercent": 80,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#R9R08L2L8",
+                                "name": "PG"
+                            },
+                            "destructionPercent": 37,
+                            "stars": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 70000001,
+                    "name": "Barbarian Camp",
+                    "districtHallLevel": 2,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 4130,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#R9R08L2L8",
+                                "name": "PG"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#R9UUVY9RR",
+                                "name": "ye"
+                            },
+                            "destructionPercent": 59,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#R9UUVY9RR",
+                                "name": "ye"
+                            },
+                            "destructionPercent": 23,
+                            "stars": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 70000002,
+                    "name": "Wizard Valley",
+                    "districtHallLevel": 2,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 5,
+                    "totalLooted": 5054,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#R9UUVY9RR",
+                                "name": "ye"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#R9UUVY9RR",
+                                "name": "ye"
+                            },
+                            "destructionPercent": 87,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#R9UUVY9RR",
+                                "name": "ye"
+                            },
+                            "destructionPercent": 73,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#R9UUVY9RR",
+                                "name": "ye"
+                            },
+                            "destructionPercent": 46,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#R9JCU8Q88",
+                                "name": "azka"
+                            },
+                            "destructionPercent": 6,
+                            "stars": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 70000003,
+                    "name": "Balloon Lagoon",
+                    "districtHallLevel": 1,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 4290,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#R9JCU8Q88",
+                                "name": "azka"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#R9JCU8Q88",
+                                "name": "azka"
+                            },
+                            "destructionPercent": 52,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#GJYVUL0L2",
+                                "name": "sapimen"
+                            },
+                            "destructionPercent": 33,
+                            "stars": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "defender": {
+                "tag": "#QVY8VQYC",
+                "name": "Super Chargers",
+                "level": 8,
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/-fJu5ILpBVdCLcjfw5sPtztATFHyTXD6VECtwPZ1Tpk.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/-fJu5ILpBVdCLcjfw5sPtztATFHyTXD6VECtwPZ1Tpk.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/-fJu5ILpBVdCLcjfw5sPtztATFHyTXD6VECtwPZ1Tpk.png"
+                }
+            },
+            "attackCount": 1,
+            "districtCount": 4,
+            "districtsDestroyed": 0,
+            "districts": [
+                {
+                    "id": 70000000,
+                    "name": "Capital Peak",
+                    "districtHallLevel": 4,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000001,
+                    "name": "Barbarian Camp",
+                    "districtHallLevel": 2,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000002,
+                    "name": "Wizard Valley",
+                    "districtHallLevel": 2,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000003,
+                    "name": "Balloon Lagoon",
+                    "districtHallLevel": 1,
+                    "destructionPercent": 45,
+                    "stars": 0,
+                    "attackCount": 1,
+                    "totalLooted": 2010,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#R9R08L2L8",
+                                "name": "PG"
+                            },
+                            "destructionPercent": 45,
+                            "stars": 0
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "defenseLog": [
+        {
+            "attacker": {
+                "tag": "#20YCRYLRL",
+                "name": "tembak A",
+                "level": 4,
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/RcRDG_rjX-oU5PHsmmlhHAZoao08Sl16h-1llLBH5qw.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/RcRDG_rjX-oU5PHsmmlhHAZoao08Sl16h-1llLBH5qw.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/RcRDG_rjX-oU5PHsmmlhHAZoao08Sl16h-1llLBH5qw.png"
+                }
+            },
+            "attackCount": 0,
+            "districtCount": 4,
+            "districtsDestroyed": 0,
+            "districts": [
+                {
+                    "id": 70000000,
+                    "name": "Capital Peak",
+                    "districtHallLevel": 4,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000001,
+                    "name": "Barbarian Camp",
+                    "districtHallLevel": 2,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000002,
+                    "name": "Wizard Valley",
+                    "districtHallLevel": 2,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000003,
+                    "name": "Balloon Lagoon",
+                    "districtHallLevel": 1,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                }
+            ]
+        }
+    ]
+}
