@@ -4,7 +4,7 @@
     "endTime": "20261109T070000.000Z",
     "capitalTotalLoot": 21182,
     "raidsCompleted": 1,
-    "totalAttacks": 16,
+    "totalAttacks": 17,
     "enemyDistrictsDestroyed": 4,
     "offensiveReward": 0,
     "defensiveReward": 0,
@@ -16,6 +16,14 @@
             "attackLimit": 5,
             "bonusAttackLimit": 0,
             "capitalResourcesLooted": 1400
+        },
+        {
+            "tag": "#QRRUPV09Q",
+            "name": "adam",
+            "attacks": 1,
+            "attackLimit": 5,
+            "bonusAttackLimit": 0,
+            "capitalResourcesLooted": 0
         },
         {
             "tag": "#R9UUVY9RR",
@@ -235,7 +243,7 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/-fJu5ILpBVdCLcjfw5sPtztATFHyTXD6VECtwPZ1Tpk.png"
                 }
             },
-            "attackCount": 1,
+            "attackCount": 2,
             "districtCount": 4,
             "districtsDestroyed": 0,
             "districts": [
@@ -254,8 +262,18 @@
                     "districtHallLevel": 2,
                     "destructionPercent": 0,
                     "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "attackCount": 1,
+                    "totalLooted": 0,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#QRRUPV09Q",
+                                "name": "adam"
+                            },
+                            "destructionPercent": 0,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000002,
