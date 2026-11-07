@@ -2,10 +2,10 @@
     "state": "ongoing",
     "startTime": "20261106T070000.000Z",
     "endTime": "20261109T070000.000Z",
-    "capitalTotalLoot": 21182,
+    "capitalTotalLoot": 23751,
     "raidsCompleted": 1,
-    "totalAttacks": 17,
-    "enemyDistrictsDestroyed": 4,
+    "totalAttacks": 20,
+    "enemyDistrictsDestroyed": 5,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
@@ -44,10 +44,10 @@
         {
             "tag": "#R9JCU8Q88",
             "name": "azka",
-            "attacks": 3,
+            "attacks": 6,
             "attackLimit": 5,
             "bonusAttackLimit": 1,
-            "capitalResourcesLooted": 3090
+            "capitalResourcesLooted": 5659
         }
     ],
     "attackLog": [
@@ -243,9 +243,9 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/-fJu5ILpBVdCLcjfw5sPtztATFHyTXD6VECtwPZ1Tpk.png"
                 }
             },
-            "attackCount": 2,
+            "attackCount": 5,
             "districtCount": 4,
-            "districtsDestroyed": 0,
+            "districtsDestroyed": 1,
             "districts": [
                 {
                     "id": 70000000,
@@ -279,20 +279,46 @@
                     "id": 70000002,
                     "name": "Wizard Valley",
                     "districtHallLevel": 2,
-                    "destructionPercent": 0,
+                    "destructionPercent": 12,
                     "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "attackCount": 1,
+                    "totalLooted": 190,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#R9JCU8Q88",
+                                "name": "azka"
+                            },
+                            "destructionPercent": 12,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000003,
                     "name": "Balloon Lagoon",
                     "districtHallLevel": 1,
-                    "destructionPercent": 45,
-                    "stars": 0,
-                    "attackCount": 1,
-                    "totalLooted": 2010,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 4389,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#R9JCU8Q88",
+                                "name": "azka"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#R9JCU8Q88",
+                                "name": "azka"
+                            },
+                            "destructionPercent": 82,
+                            "stars": 2
+                        },
                         {
                             "attacker": {
                                 "tag": "#R9R08L2L8",
