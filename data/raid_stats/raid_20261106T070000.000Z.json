@@ -513,9 +513,9 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/RcRDG_rjX-oU5PHsmmlhHAZoao08Sl16h-1llLBH5qw.png"
                 }
             },
-            "attackCount": 0,
+            "attackCount": 6,
             "districtCount": 4,
-            "districtsDestroyed": 0,
+            "districtsDestroyed": 1,
             "districts": [
                 {
                     "id": 70000000,
@@ -539,19 +539,71 @@
                     "id": 70000002,
                     "name": "Wizard Valley",
                     "districtHallLevel": 2,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 67,
+                    "stars": 2,
+                    "attackCount": 2,
+                    "totalLooted": 2980,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#LP2G2RQ8V",
+                                "name": "tok_mat"
+                            },
+                            "destructionPercent": 67,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#LP2G2RQ8V",
+                                "name": "tok_mat"
+                            },
+                            "destructionPercent": 36,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000003,
                     "name": "Balloon Lagoon",
                     "districtHallLevel": 1,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 4,
+                    "totalLooted": 4467,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#LP2G2RQ8V",
+                                "name": "tok_mat"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#LP2G2RQ8V",
+                                "name": "tok_mat"
+                            },
+                            "destructionPercent": 75,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#LP2G2RQ8V",
+                                "name": "tok_mat"
+                            },
+                            "destructionPercent": 42,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#LP2G2RQ8V",
+                                "name": "tok_mat"
+                            },
+                            "destructionPercent": 42,
+                            "stars": 1
+                        }
+                    ]
                 }
             ]
         }
