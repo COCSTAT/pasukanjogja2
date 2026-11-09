@@ -87,7 +87,7 @@
                     "name": "Capital Peak",
                     "districtHallLevel": 4,
                     "destructionPercent": 100,
-                    "stars": 3,
+                    "stars": 0,
                     "attackCount": 4,
                     "totalLooted": 5698,
                     "attacks": [
@@ -130,7 +130,7 @@
                     "name": "Barbarian Camp",
                     "districtHallLevel": 2,
                     "destructionPercent": 100,
-                    "stars": 3,
+                    "stars": 0,
                     "attackCount": 3,
                     "totalLooted": 4130,
                     "attacks": [
@@ -165,7 +165,7 @@
                     "name": "Wizard Valley",
                     "districtHallLevel": 2,
                     "destructionPercent": 100,
-                    "stars": 3,
+                    "stars": 0,
                     "attackCount": 5,
                     "totalLooted": 5054,
                     "attacks": [
@@ -216,7 +216,7 @@
                     "name": "Balloon Lagoon",
                     "districtHallLevel": 1,
                     "destructionPercent": 100,
-                    "stars": 3,
+                    "stars": 0,
                     "attackCount": 3,
                     "totalLooted": 4290,
                     "attacks": [
@@ -268,7 +268,7 @@
                     "name": "Capital Peak",
                     "districtHallLevel": 4,
                     "destructionPercent": 100,
-                    "stars": 3,
+                    "stars": 0,
                     "attackCount": 4,
                     "totalLooted": 5620,
                     "attacks": [
@@ -311,7 +311,7 @@
                     "name": "Barbarian Camp",
                     "districtHallLevel": 2,
                     "destructionPercent": 100,
-                    "stars": 3,
+                    "stars": 0,
                     "attackCount": 3,
                     "totalLooted": 4027,
                     "attacks": [
@@ -346,7 +346,7 @@
                     "name": "Wizard Valley",
                     "districtHallLevel": 2,
                     "destructionPercent": 100,
-                    "stars": 3,
+                    "stars": 0,
                     "attackCount": 4,
                     "totalLooted": 4751,
                     "attacks": [
@@ -389,7 +389,7 @@
                     "name": "Balloon Lagoon",
                     "districtHallLevel": 1,
                     "destructionPercent": 100,
-                    "stars": 3,
+                    "stars": 0,
                     "attackCount": 3,
                     "totalLooted": 4389,
                     "attacks": [
@@ -468,7 +468,7 @@
                     "name": "Balloon Lagoon",
                     "districtHallLevel": 1,
                     "destructionPercent": 96,
-                    "stars": 2,
+                    "stars": 0,
                     "attackCount": 3,
                     "totalLooted": 4030,
                     "attacks": [
@@ -540,7 +540,7 @@
                     "name": "Wizard Valley",
                     "districtHallLevel": 2,
                     "destructionPercent": 67,
-                    "stars": 2,
+                    "stars": 0,
                     "attackCount": 2,
                     "totalLooted": 2980,
                     "attacks": [
@@ -567,7 +567,7 @@
                     "name": "Balloon Lagoon",
                     "districtHallLevel": 1,
                     "destructionPercent": 100,
-                    "stars": 3,
+                    "stars": 0,
                     "attackCount": 4,
                     "totalLooted": 4467,
                     "attacks": [
