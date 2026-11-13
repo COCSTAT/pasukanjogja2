@@ -1,0 +1,68 @@
+{
+    "state": "ongoing",
+    "startTime": "20261113T070000.000Z",
+    "endTime": "20261116T070000.000Z",
+    "capitalTotalLoot": 0,
+    "raidsCompleted": 0,
+    "totalAttacks": 0,
+    "enemyDistrictsDestroyed": 0,
+    "offensiveReward": 0,
+    "defensiveReward": 0,
+    "members": [],
+    "attackLog": [
+        {
+            "defender": {
+                "tag": "#2LV00RQ00",
+                "name": "gold",
+                "level": 3,
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/lpeshD-GRSeRucLn61pXaNfh98N61HuT0HPHpPmGdEA.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/lpeshD-GRSeRucLn61pXaNfh98N61HuT0HPHpPmGdEA.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/lpeshD-GRSeRucLn61pXaNfh98N61HuT0HPHpPmGdEA.png"
+                }
+            },
+            "attackCount": 0,
+            "districtCount": 4,
+            "districtsDestroyed": 0,
+            "districts": [
+                {
+                    "id": 70000000,
+                    "name": "Capital Peak",
+                    "districtHallLevel": 4,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000001,
+                    "name": "Barbarian Camp",
+                    "districtHallLevel": 2,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000002,
+                    "name": "Wizard Valley",
+                    "districtHallLevel": 2,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000003,
+                    "name": "Balloon Lagoon",
+                    "districtHallLevel": 1,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                }
+            ]
+        }
+    ],
+    "defenseLog": []
+}
