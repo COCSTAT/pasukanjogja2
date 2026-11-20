@@ -2,10 +2,10 @@
     "state": "ongoing",
     "startTime": "20261120T070000.000Z",
     "endTime": "20261123T070000.000Z",
-    "capitalTotalLoot": 7975,
+    "capitalTotalLoot": 22034,
     "raidsCompleted": 0,
-    "totalAttacks": 6,
-    "enemyDistrictsDestroyed": 2,
+    "totalAttacks": 18,
+    "enemyDistrictsDestroyed": 4,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
@@ -16,6 +16,22 @@
             "attackLimit": 5,
             "bonusAttackLimit": 1,
             "capitalResourcesLooted": 7975
+        },
+        {
+            "tag": "#R9UUVY9RR",
+            "name": "ye",
+            "attacks": 6,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 7307
+        },
+        {
+            "tag": "#R9JCU8Q88",
+            "name": "azka",
+            "attacks": 6,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 6752
         }
     ],
     "attackLog": [
@@ -30,37 +46,137 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/hmGHhsMy0dvlb6gHWTf7NxG1CMtywIxxGpoSftrsG6E.png"
                 }
             },
-            "attackCount": 6,
+            "attackCount": 18,
             "districtCount": 5,
-            "districtsDestroyed": 2,
+            "districtsDestroyed": 4,
             "districts": [
                 {
                     "id": 70000000,
                     "name": "Capital Peak",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 98,
+                    "stars": 2,
+                    "attackCount": 5,
+                    "totalLooted": 5710,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#R9JCU8Q88",
+                                "name": "azka"
+                            },
+                            "destructionPercent": 98,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#R9JCU8Q88",
+                                "name": "azka"
+                            },
+                            "destructionPercent": 88,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#R9JCU8Q88",
+                                "name": "azka"
+                            },
+                            "destructionPercent": 84,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#R9JCU8Q88",
+                                "name": "azka"
+                            },
+                            "destructionPercent": 71,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#R9JCU8Q88",
+                                "name": "azka"
+                            },
+                            "destructionPercent": 42,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000001,
                     "name": "Barbarian Camp",
                     "districtHallLevel": 2,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 4,
+                    "totalLooted": 4272,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#R9JCU8Q88",
+                                "name": "azka"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#R9UUVY9RR",
+                                "name": "ye"
+                            },
+                            "destructionPercent": 84,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#R9UUVY9RR",
+                                "name": "ye"
+                            },
+                            "destructionPercent": 42,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#R9UUVY9RR",
+                                "name": "ye"
+                            },
+                            "destructionPercent": 25,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000002,
                     "name": "Wizard Valley",
                     "districtHallLevel": 2,
-                    "destructionPercent": 32,
-                    "stars": 0,
-                    "attackCount": 1,
-                    "totalLooted": 870,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 4,
+                    "totalLooted": 4947,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#R9UUVY9RR",
+                                "name": "ye"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#R9UUVY9RR",
+                                "name": "ye"
+                            },
+                            "destructionPercent": 97,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#R9UUVY9RR",
+                                "name": "ye"
+                            },
+                            "destructionPercent": 77,
+                            "stars": 2
+                        },
                         {
                             "attacker": {
                                 "tag": "#R08UVU0VJ",
