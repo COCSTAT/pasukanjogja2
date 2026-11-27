@@ -1,0 +1,12 @@
+.env
+.env*
+.git
+.github
+.venv
+scrapers
+scripts
+README.md
+LICENSE
+*.py
+*.pyc
+__pycache__
