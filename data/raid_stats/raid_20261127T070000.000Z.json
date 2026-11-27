@@ -2,13 +2,21 @@
     "state": "ongoing",
     "startTime": "20261127T070000.000Z",
     "endTime": "20261130T070000.000Z",
-    "capitalTotalLoot": 0,
+    "capitalTotalLoot": 7816,
     "raidsCompleted": 0,
-    "totalAttacks": 1,
-    "enemyDistrictsDestroyed": 0,
+    "totalAttacks": 7,
+    "enemyDistrictsDestroyed": 2,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
+        {
+            "tag": "#R08UVU0VJ",
+            "name": "\u043c\u0430\u0433\u0436\u0430\u043d",
+            "attacks": 6,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 7816
+        },
         {
             "tag": "#R9UUVY9RR",
             "name": "ye",
@@ -30,9 +38,9 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/UpsMW0oDBbrkFRohqyng4UPkGAxvG-rszjrAjHcOpZQ.png"
                 }
             },
-            "attackCount": 1,
+            "attackCount": 7,
             "districtCount": 5,
-            "districtsDestroyed": 0,
+            "districtsDestroyed": 2,
             "districts": [
                 {
                     "id": 70000000,
@@ -65,20 +73,70 @@
                     "id": 70000003,
                     "name": "Balloon Lagoon",
                     "districtHallLevel": 1,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 4,
+                    "totalLooted": 4611,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#R08UVU0VJ",
+                                "name": "\u043c\u0430\u0433\u0436\u0430\u043d"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#R08UVU0VJ",
+                                "name": "\u043c\u0430\u0433\u0436\u0430\u043d"
+                            },
+                            "destructionPercent": 84,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#R08UVU0VJ",
+                                "name": "\u043c\u0430\u0433\u0436\u0430\u043d"
+                            },
+                            "destructionPercent": 47,
+                            "stars": 0
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#R08UVU0VJ",
+                                "name": "\u043c\u0430\u0433\u0436\u0430\u043d"
+                            },
+                            "destructionPercent": 21,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000004,
                     "name": "Builder's Workshop",
                     "districtHallLevel": 1,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 1,
-                    "totalLooted": 0,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 3205,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#R08UVU0VJ",
+                                "name": "\u043c\u0430\u0433\u0436\u0430\u043d"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#R08UVU0VJ",
+                                "name": "\u043c\u0430\u0433\u0436\u0430\u043d"
+                            },
+                            "destructionPercent": 47,
+                            "stars": 0
+                        },
                         {
                             "attacker": {
                                 "tag": "#R9UUVY9RR",
